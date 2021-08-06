@@ -1,0 +1,1881 @@
+jk,efccid,srcid,cmpid,num,srcname,cmp,cmpesc,cmplnk,loc,country,zip,city,title,locid,rd,description,keywords
+55c3273708339a47,f7808c5a9a603597,7f25b330f90f0627,870fe746e6c64ba6,0,Indeed,Hireguide,Hireguide,/q-Hireguide-l-los-angeles-jobs.html,Santa Monica,US,,Santa Monica,Head of Product,efb633cb66a2b8a6,E4fhWX_aAFqF37QMCtQEyoXu0O3q_u7jR-ad0LIkJdk,"Headline: 
+ We’re looking for a highly skilled Head of Product with an entrepreneurial spirit to join the founding team of a hyper-growth, well funded startup that is deepening human understanding through fairer, more connected interviews.
+*
+You will be joining two former LinkedIn execs with a lifetime of experience in hiring, building successful businesses, software engineering, advanced AI and social impact.
+*
+*
+Context: 
+Every year companies are forced to reinvent interviews for the same ~100 professional roles, 500M times. Interviewing is slow, biased, lacks prediction, and candidates rarely get what they deserve.
+Hireguide is a platform that lets hiring teams interview like experts for any role in minutes. We’re sharing what works from thousands of real questions, recordings and ratings, all analyzed by advanced natural language processing. For companies Hireguide makes interview preparation 20X faster, decisions twice as predictive and top candidates more likely to say yes. For candidates Hireguide delivers clearer interview instructions, a voice in the process, and actionable feedback. For society, Hireguide is a BCorp democratizing access to fairer interviewing.
+The experience we offer: 
+Develop skills on the cutting edge of AI tech, applying NLP / Conversational AI to Talent conversations
+Work with industry “A-Players” - Eg CTO (PhD in AI) built the ML infrastructure for LinkedIn
+Create a product, culture and business from the ground-up with true ownership
+Establish true north customer value metrics and manage accelerating customer success
+Learn to differentiate product through human centric design and ease of use
+Hire and manage a large Product and Design team within a year
+Mentoring by industry experts (including human centric design training)
+Drive business hyper-growth, including early stage accountability and scaling
+Solve a meaningful social problem by democratizing access to fairer more effective interviewing
+The experience you offer: 
+High EQ including a growth mindset, sharing credit, intense preparation, leading without authority
+Experience capturing and prioritizing customer product requirements using multiple methods
+Technical skills (eg a Computer Science background)
+8-10 years experience building web based software from ideation, launch, to refinement (ideally: within AI / NLP, in HR, SaaS, B2B, 8+ years experience, managed others)
+Balanced skill between 1) strategy and execution, 2) creativity and critical thinking, 3) customer and engineering empathy
+Track record of accountability and results throughout lifetime (history of success)
+Top seven skills under evaluation (ranked): 
+1) Structured Problem Solving, 2) Product Management, 3) UX Design, 4) Coding Knowledge, 5) Agile 6) Managing Self 7) Managing Others
+Total reward transparency: 
+This role can be based anywhere in the US (preferred), Canada (preferred), UK/EU or Australia. Foundational hires are paid annual cash between $150-200k USD to maintain a comfortable lifestyle, but meaningful founding-team equity is the heart of the compensation upside. Founding team equity is expected to be worth multi-millions within a few years, potentially a lot more when we achieve our vision. We also offer competitive benefits, remote work, international offsites, four weeks vacation. Required to travel to California (Bay Area and/or Santa Monica) multiple times per year, health safety permitting.
+*
+Job Type: Full-time
+Pay: $150,000.00 - $200,000.00 per year
+Work Location:
+Multiple locations
+Work Remotely:
+Yes","{'experience': 0.01635161863895653, 'democratizing': 0.006636857370862269, 'headline': 0.005583608662066412, 'looking': 0.005583608662066412, 'highly': 0.005583608662066412, 'skilled': 0.005583608662066412, 'head': 0.005583608662066412, 'entrepreneurial': 0.005583608662066412, 'spirit': 0.005583608662066412, 'join': 0.005583608662066412, 'well': 0.005583608662066412, 'funded': 0.005583608662066412, 'startup': 0.005583608662066412, 'deepening': 0.005583608662066412, 'understanding': 0.005583608662066412, 'connected': 0.005583608662066412, 'joining': 0.005583608662066412, 'two': 0.005583608662066412, 'former': 0.005583608662066412, 'execs': 0.005583608662066412, 'successful': 0.005583608662066412, 'businesses': 0.005583608662066412, 'impact': 0.005583608662066412, 'context': 0.005583608662066412, 'every': 0.005583608662066412, 'forced': 0.005583608662066412, 'reinvent': 0.005583608662066412, 'professional': 0.005583608662066412, 'roles': 0.005583608662066412, 'slow': 0.005583608662066412, 'biased': 0.005583608662066412, 'lacks': 0.005583608662066412, 'prediction': 0.005583608662066412, 'rarely': 0.005583608662066412, 'get': 0.005583608662066412, 'deserve': 0.005583608662066412, 'platform': 0.005583608662066412, 'lets': 0.005583608662066412, 'teams': 0.005583608662066412, 'like': 0.005583608662066412, 'minutes': 0.005583608662066412, 'works': 0.005583608662066412, 'thousands': 0.005583608662066412, 'real': 0.005583608662066412, 'questions': 0.005583608662066412, 'recordings': 0.005583608662066412, 'ratings': 0.005583608662066412, 'analyzed': 0.005583608662066412, 'natural': 0.005583608662066412, 'language': 0.005583608662066412, 'processing': 0.005583608662066412, 'makes': 0.005583608662066412, 'faster': 0.005583608662066412, 'decisions': 0.005583608662066412, 'twice': 0.005583608662066412, 'predictive': 0.005583608662066412, 'likely': 0.005583608662066412, 'say': 0.005583608662066412, 'delivers': 0.005583608662066412, 'clearer': 0.005583608662066412, 'instructions': 0.005583608662066412, 'voice': 0.005583608662066412, 'process': 0.005583608662066412, 'actionable': 0.005583608662066412, 'feedback': 0.005583608662066412, 'society': 0.005583608662066412, 'bcorp': 0.005583608662066412, 'develop': 0.005583608662066412, 'cutting': 0.005583608662066412, 'edge': 0.005583608662066412, 'tech': 0.005583608662066412, 'applying': 0.005583608662066412, 'conversational': 0.005583608662066412, 'talent': 0.005583608662066412, 'conversations': 0.005583608662066412, 'cto': 0.005583608662066412, 'phd': 0.005583608662066412, 'built': 0.005583608662066412, 'ml': 0.005583608662066412, 'infrastructure': 0.005583608662066412, 'create': 0.005583608662066412, 'culture': 0.005583608662066412, 'groundup': 0.005583608662066412, 'ownership': 0.005583608662066412, 'establish': 0.005583608662066412, 'north': 0.005583608662066412, 'value': 0.005583608662066412, 'metrics': 0.005583608662066412, 'accelerating': 0.005583608662066412, 'learn': 0.005583608662066412, 'differentiate': 0.005583608662066412, 'ease': 0.005583608662066412, 'use': 0.005583608662066412, 'hire': 0.005583608662066412, 'large': 0.005583608662066412, 'mentoring': 0.005583608662066412, 'training': 0.005583608662066412, 'drive': 0.005583608662066412, 'early': 0.005583608662066412, 'stage': 0.005583608662066412}"
+9b2dbc39974c3b8a,104ed0ead9bebd2a,34a7086e9a78de3b,999d3c05cd82162f,1,Indeed,Checkmate Partners,Checkmate Partners,/q-Checkmate-Partners-l-los-angeles-jobs.html,Los Angeles,US,,Los Angeles,Computer Vision \/ ML Engineering Lead,d05a4fe50c5af0a8,E4fhWX_aAFqF37QMCtQEyoXu0O3q_u7jR-ad0LIkJdk,"*Location: Will be based out of Bay Area or San Diego Metropolitan Offices*
+About Us: 
+Be part of an exciting, well-funded startup changing the world of retail. Our mission is to revolutionize customer experience in retail through precise identification of inventory in the stores and distribution centers, completely transforming the in-store experience for employees and customers alike. Our proprietary hardware and software platform combines RFID, Computer Vision and AI to provide hyper-precise, real-time location of every product and person in physical stores. This unprecedented capability enables retailers to automate in-store inventory management, analytics, and checkout...and this is just the beginning of what we hope to accomplish together.
+About The Job: 
+The Engineering Manager for the CV/ML team will lead a team of CV/ML engineers to develop a solution to enable Product-People association using Computer Vision, RFID and Machine Learning models. The Manager will collaborate with product teams and leadership team to set the team’s roadmap, manage and prioritize feature development.
+Responsibilities: 
+Deliver robust, well-tested, and fully documented CV modules to serve the use cases.
+Learn and implement state-of-the-art deep learning algorithms to support people and product association.
+Collaborate with system architects, designers, and engineers to support the development of robust machine learning systems.
+Continuously improve the efficiency, robustness, and cost of existing modules.
+Assess and recommend technology choices and directions in consideration of cost-benefit trade-offs.
+Work with Product Management to prioritize feature development
+Build roadmaps, engineering plans, and schedule estimates
+Perform code reviews and ensuring proper design and delivery
+Promote best practices and establishing team processes
+Identify infrastructure and architectural investment needs
+Hire, develop, and lead an inclusive, engaged, and high performing team
+Qualifications: 
+3+ years of experience managing in one or more CV areas as object detection, pattern recognition, and image classification.
+5+ years of relevant experience as a CV Engineer, Data Scientist, Machine Learning Engineer, or related role
+Experience with common languages (e.g., Python, SQL) and tools (e.g., TensorFlow, PyTorch, distributed training / inference with Spark) in the ML toolkit
+Experience with developing popular open-source projects
+Experience in designing and building highly scalable, distributed ML models
+Experience in deploying machine learning algorithms in resource-restricted environments such as embedded systems is preferred
+Strong ability to prioritize among competing priorities
+Excellent written and verbal technical communication skills
+MS / PhD in engineering or quantitative discipline (e.g., Statistics, Mathematics, Computer Science, etc.)
+Preferred: 
+You have prior experience working at a startup
+*Location: Will be based out of Bay Area or San Diego Metropolitan Offices*
+Job Type: Full-time
+Pay: $150,000.00 - $220,000.00 per hour
+Benefits:
+401(k)
+Health insurance
+Application Question(s):
+Please Provide Your LinkedIn Profile
+Please Provide Your Email Address
+Are you able to reliable commute to this location for work?
+Are you willing to relocate for this role?
+Education:
+Bachelor's (Preferred)
+Experience:
+MATLAB: 1 year (Preferred)
+Computer vision: 3 years (Required)
+Python: 3 years (Required)
+TensorFlow: 3 years (Preferred)
+Machine learning: 3 years (Required)
+Work Location:
+Multiple locations","{'experience': 0.017477348270284732, 'required': 0.013188846987398535, 'prioritize': 0.008792564658265691, 'work': 0.007377277863460978, 'job': 0.007078124454848506, 'us': 0.0058617097721771275, 'part': 0.0058617097721771275, 'exciting': 0.0058617097721771275, 'wellfunded': 0.0058617097721771275, 'changing': 0.0058617097721771275, 'world': 0.0058617097721771275, 'mission': 0.0058617097721771275, 'revolutionize': 0.0058617097721771275, 'customer': 0.0058617097721771275, 'precise': 0.0058617097721771275, 'identification': 0.0058617097721771275, 'distribution': 0.0058617097721771275, 'centers': 0.0058617097721771275, 'completely': 0.0058617097721771275, 'transforming': 0.0058617097721771275, 'employees': 0.0058617097721771275, 'customers': 0.0058617097721771275, 'alike': 0.0058617097721771275, 'proprietary': 0.0058617097721771275, 'hardware': 0.0058617097721771275, 'software': 0.0058617097721771275, 'platform': 0.0058617097721771275, 'combines': 0.0058617097721771275, 'ai': 0.0058617097721771275, 'hyperprecise': 0.0058617097721771275, 'realtime': 0.0058617097721771275, 'every': 0.0058617097721771275, 'person': 0.0058617097721771275, 'physical': 0.0058617097721771275, 'unprecedented': 0.0058617097721771275, 'capability': 0.0058617097721771275, 'enables': 0.0058617097721771275, 'retailers': 0.0058617097721771275, 'automate': 0.0058617097721771275, 'analytics': 0.0058617097721771275, 'checkoutand': 0.0058617097721771275, 'beginning': 0.0058617097721771275, 'hope': 0.0058617097721771275, 'accomplish': 0.0058617097721771275, 'together': 0.0058617097721771275, 'solution': 0.0058617097721771275, 'enable': 0.0058617097721771275, 'productpeople': 0.0058617097721771275, 'using': 0.0058617097721771275, 'teams': 0.0058617097721771275, 'leadership': 0.0058617097721771275, 'set': 0.0058617097721771275, 'roadmap': 0.0058617097721771275, 'manage': 0.0058617097721771275, 'responsibilities': 0.0058617097721771275, 'deliver': 0.0058617097721771275, 'welltested': 0.0058617097721771275, 'fully': 0.0058617097721771275, 'documented': 0.0058617097721771275, 'serve': 0.0058617097721771275, 'use': 0.0058617097721771275, 'cases': 0.0058617097721771275, 'learn': 0.0058617097721771275, 'implement': 0.0058617097721771275, 'stateoftheart': 0.0058617097721771275, 'deep': 0.0058617097721771275, 'people': 0.0058617097721771275, 'system': 0.0058617097721771275, 'architects': 0.0058617097721771275, 'designers': 0.0058617097721771275, 'continuously': 0.0058617097721771275, 'improve': 0.0058617097721771275, 'efficiency': 0.0058617097721771275, 'robustness': 0.0058617097721771275, 'cost': 0.0058617097721771275, 'existing': 0.0058617097721771275, 'assess': 0.0058617097721771275, 'recommend': 0.0058617097721771275, 'technology': 0.0058617097721771275, 'choices': 0.0058617097721771275, 'directions': 0.0058617097721771275, 'consideration': 0.0058617097721771275, 'costbenefit': 0.0058617097721771275, 'tradeoffs': 0.0058617097721771275, 'build': 0.0058617097721771275, 'roadmaps': 0.0058617097721771275, 'plans': 0.0058617097721771275, 'schedule': 0.0058617097721771275, 'estimates': 0.0058617097721771275, 'perform': 0.0058617097721771275, 'code': 0.0058617097721771275, 'reviews': 0.0058617097721771275, 'ensuring': 0.0058617097721771275, 'proper': 0.0058617097721771275, 'design': 0.0058617097721771275, 'delivery': 0.0058617097721771275, 'promote': 0.0058617097721771275, 'best': 0.0058617097721771275, 'practices': 0.0058617097721771275, 'establishing': 0.0058617097721771275}"
+5fd71dcfc55f67d7,31088ebdb1555207,4e4b8a9e130bc8ca,5890a50fb35d0f4d,2,TuSimple,TuSimple,TuSimple,/q-TuSimple-l-los-angeles-jobs.html,Los Angeles,US,,Los Angeles,Manager of Software Safety Engineering,d05a4fe50c5af0a8,E4fhWX_aAFqF37QMCtQEyhxNNjPrsTulYVJeVzSI4sYovf9g9gK90TedWsP3TSjz,"This opportunity is located in San Diego, CA or Tucson, AZ. Remote friendly during COVID-19
+
+
+
+You can apply to the job with this email address: product__manager_of_software_safety_engineering_fdcdff2d2us@ivy.greenhouse.io
+
+
+
+
+Company Overview
+
+
+
+Come join a higher calling and find a deeper purpose!
+
+
+
+As a multi-national Artificial Intelligence Technology Company, we are at the epicenter of the Autonomous Vehicle Universe. Our breakthroughs are leading the industry in autonomous trucking.
+
+
+
+While inventing the framework of Autonomous Driving, our current fleet of autonomous Trucks are helping communities receive much-needed supplies and medical equipment around the clock. Our people are some of the most talented engineers and contributors who are leaving behind a historic legacy.
+
+
+
+TuSimple was founded half a decade ago with the goal of bringing the top minds in the world together to achieve the dream of a driverless truck solution. With a foundation in computer vision, algorithms, mapping, and Artificial Intelligence, TuSimple is working to create the first global commercially viable 
+Autonomous Freight Network.
+
+
+
+Position Overview
+
+
+
+The Manager of Software Safety Engineering is responsible for establishing safety procedures in relation to machine learning platforms. This position is also responsible for auditing software produced by the Algorithm team to ensure safety standards are being met and any risks in relation to functional safety are mitigated in the software
+
+
+
+Role Responsibilities
+
+
+
+
+Leads a team of sw safety engineers to help identify safety metrics for algorithm modules based on unsafe known failure modes.
+
+
+Defines the path in leveraging tusimple's Machine Learning platform and verification tools (simulation, SIL) to verify the defined safety metrics across all known scenarios.
+
+
+Leverages existing state-of-the-art industry SW safety standards or guidelines to support the development of the SW safety analysis process and identification of activities.
+
+
+Define the work packages required for compliance with the safety standards (ISO 26262, ISO 21448, UL4600) and ensure adequate staffing for the project.
+
+
+Responsible for the application of ISO 26262-6 design principles on SW architectures and requirements.
+
+
+Responsible for highlighting potential gaps in tusimple's ML platform or tools and suggesting improvements.
+
+
+Lead the development of a comprehensive SW safety plan for the team, coordinate with the project safety manager, product teams, engineering teams, and tusimple's partners (e.g. vehicle manufacturer, component suppliers) and align with their project plans.
+
+
+Support the development of a comprehensive safety case based on UL 4600 with special focus on autonomy functions.
+
+
+Support the safety analysis activities as needed (HARA, FTA, FMEA, STPA).
+
+
+Support the development of SW safety architectures.
+
+
+Support the development of the SW safety concept.
+
+
+
+
+Experience & Skills Required
+
+
+
+
+Holds a B.S. or higher degree (or equivalent) in Electrical Engineering or Computer Science
+
+
+10+ years of relevant experience
+
+
+Strong experience in machine learning, neural networks and autonomous driving software stacks
+
+
+Strong experience in SW development.
+
+
+Applied knowledge in ISO 26262, ISO 21448 and UL4600.
+
+
+Must-have experience in being a technical leader in a group.
+
+
+Preferred experience managing a small group of engineers.
+
+
+Experience working with suppliers and OEMs regarding safety analysis and requirements
+
+
+Solid knowledge and experience with autonomous or automotive software architectures, including safety architectures.
+
+
+Strong understanding of software simulation, validating software functions, and software safety mechanisms
+
+
+Strong experience working with classic AutoSAR and Adaptive AutoSAR.
+
+
+Understanding of software quality concepts and processes (ASPICE)
+
+
+Experience deriving technical safety requirements from the Functional Safety Concepts, Technical Safety Concepts, and System Architecture Design.
+
+
+Strong experience in C/C++ and related coding standards (e.g. Automotive MISRA or similar)
+
+
+Applied understanding of SOC, AUTOSAR or similar embedded software, algorithms and data structures
+
+
+Familiarity with computer system architecture, microprocessor, and microcontroller fundamentals (caches, buses, memory controllers, DMA, etc.), and supporting electronic circuits
+
+
+Expert in configuration management (hardware, its firmware, serial number, hardware, etc.)
+
+
+Knowledge of security standards (EAL/CC, SAE J3061)
+
+
+Other responsibilities as assigned
+
+
+TuSimple Benefits
+
+
+
+
+100% employer-paid healthcare premiums for you and your family
+
+
+
+
+Work visa sponsorship available
+
+
+
+
+Relocation assistance available
+
+
+
+
+Breakfast, lunch, and dinner served every day
+
+
+
+
+Full kitchens on every floor with unlimited snacks, drinks, special treats, fruits, meals, and more
+
+
+
+
+Stock options / equity
+
+
+
+
+Gym membership reimbursement
+
+
+
+
+Monthly team building budget
+
+
+
+
+Learning/education budget
+
+
+
+
+Employer-paid life insurance
+
+
+
+
+Employer-paid long and short disability
+
+
+
+
+TuSimple is an Equal Opportunity Employer. This company does not discriminate in employment and personnel practices on the basis of race, sex, age, handicap, religion, national origin, or any other basis prohibited by applicable law. Hiring, transferring and promotion practices are performed without regard to the above-listed items.
+
+
+
+
+This opportunity is located in San Diego, CA or Tucson, AZ. Remote friendly during COVID-19
+
+
+
+You can apply to the job with this email address: product__manager_of_software_safety_engineering_fdcdff2d2us@ivy.greenhouse.io
+
+
+Brown University, California Institute of Technology, Carnegie Mellon University, Columbia University, Cornell University, Dartmouth College, Duke University, Georgia Institute of Technology, Harvard University, Harvey Mudd College, Massachusetts Institute of Technology, North Carolina State University, Northwestern University, Princeton University, Purdue University, Rice University, Rose - Hulman Institute of Technology, Stanford University, Tufts University, University of California â€” Berkeley, University of California â€” Los Angeles, University of Illinois-Urbana-Champaign, University of Maryland-College Park, University of Massachusetts-Amherst, University of Michigan-Ann Arbor, University of Notre Dame, University of Pennsylvania, University of Southern California, University of Texas Austin, University of Washington, University of Wisconsin-Madison, Williams College, Worcester Polytechnic Institute (WPI), Yale University, MIT, CMU, Waymo, Uber, Facebook, Uber, Amazon, Cruise, Tesla, Argo AI, Baidu, DIDI, Zoox, Nutonomy, Nuro, Aptiv, Pony.Ai, Kodiak, Toyota, Nissan, GM, Ford, VW, Autonomous Car, Autonomous Driving, Robotics, Artificial Intelligence, Machine Learning, Deep learning, Perception, Prediction, Planning, Control, Anduril Industries, Sift, Nauto, Tempus, Salesforce, Automation Anywhere, SenSat, Phrasee, Defined Crowd, Pymetrics,Siemens, Socure, AEye, Rev.com, Suki.ai, Verkada, DataVisor, People.ai, AlphaSense, Icertis, Casetext, Blue River Tech, Nvidia, Bright Machines, Orbital Insight, Brighterion, H2O, Intel, Clarifa, X.ai, Zebra Medical Vision, Iris AI, Freenome, Neurala, Akamai, Zoho, ServiceNow, SalesForce, Oracle, Tableau,Splunk,Cvent, Veeam,Atlassian, DocuSign, Dropbox, Veeva Systems, Proofpoint, Cornerstone, Qualtrics. New Relic, Okta, Intralinks, MuleSoft, Freshworks, Slack, Twilio, Anaplan, Stripe, Workfront, Smartsheet, Zuora, OutSystems, Coupa, Cylance, Elastic, Zoom, SailPoint, BlackLine, iCIMS, Digitate, Qualys, Kareo, DataStax, DiscoverOrg, Siteimprove, Druva, Centrify, Looker, SimilarWeb, Odoo, Kyriba, Sumo Logic, Sisense, PagerDuty, DigitalOcean, Liquid Web, Zaloni, Databricks, ServiceTitan, Fastly, SnapLogic, Mendix, Couchbase, Egnyte, Seismic, Bill.com, Justworks, Collibra, ActiveCampaign, Schoology, SalesLoft, Cylynt,","{'university': 0.018222271683072375, 'experience': 0.011930237436717226, 'safety': 0.01116888044847239, 'az': 0.007356089301772267, 'project': 0.00615211804032038, 'job': 0.005954376095382084, 'requirements': 0.004726424523902578, 'software': 0.004646434068538322, 'sw': 0.0037171472548306584, 'come': 0.0036780446508861333, 'join': 0.0036780446508861333, 'calling': 0.0036780446508861333, 'find': 0.0036780446508861333, 'deeper': 0.0036780446508861333, 'purpose': 0.0036780446508861333, 'multinational': 0.0036780446508861333, 'epicenter': 0.0036780446508861333, 'universe': 0.0036780446508861333, 'breakthroughs': 0.0036780446508861333, 'leading': 0.0036780446508861333, 'trucking': 0.0036780446508861333, 'inventing': 0.0036780446508861333, 'framework': 0.0036780446508861333, 'current': 0.0036780446508861333, 'fleet': 0.0036780446508861333, 'trucks': 0.0036780446508861333, 'helping': 0.0036780446508861333, 'communities': 0.0036780446508861333, 'receive': 0.0036780446508861333, 'muchneeded': 0.0036780446508861333, 'supplies': 0.0036780446508861333, 'equipment': 0.0036780446508861333, 'around': 0.0036780446508861333, 'clock': 0.0036780446508861333, 'people': 0.0036780446508861333, 'talented': 0.0036780446508861333, 'contributors': 0.0036780446508861333, 'leaving': 0.0036780446508861333, 'behind': 0.0036780446508861333, 'historic': 0.0036780446508861333, 'legacy': 0.0036780446508861333, 'founded': 0.0036780446508861333, 'half': 0.0036780446508861333, 'decade': 0.0036780446508861333, 'ago': 0.0036780446508861333, 'goal': 0.0036780446508861333, 'bringing': 0.0036780446508861333, 'top': 0.0036780446508861333, 'minds': 0.0036780446508861333, 'world': 0.0036780446508861333, 'together': 0.0036780446508861333, 'achieve': 0.0036780446508861333, 'dream': 0.0036780446508861333, 'driverless': 0.0036780446508861333, 'truck': 0.0036780446508861333, 'solution': 0.0036780446508861333, 'foundation': 0.0036780446508861333, 'mapping': 0.0036780446508861333, 'create': 0.0036780446508861333, 'first': 0.0036780446508861333, 'global': 0.0036780446508861333, 'commercially': 0.0036780446508861333, 'viable': 0.0036780446508861333, 'freight': 0.0036780446508861333, 'network': 0.0036780446508861333, 'establishing': 0.0036780446508861333, 'procedures': 0.0036780446508861333, 'platforms': 0.0036780446508861333, 'also': 0.0036780446508861333, 'auditing': 0.0036780446508861333, 'produced': 0.0036780446508861333, 'met': 0.0036780446508861333, 'risks': 0.0036780446508861333, 'mitigated': 0.0036780446508861333, 'role': 0.0036780446508861333, 'leads': 0.0036780446508861333, 'help': 0.0036780446508861333, 'identify': 0.0036780446508861333, 'modules': 0.0036780446508861333, 'unsafe': 0.0036780446508861333, 'failure': 0.0036780446508861333, 'modes': 0.0036780446508861333, 'defines': 0.0036780446508861333, 'path': 0.0036780446508861333, 'leveraging': 0.0036780446508861333, 'verification': 0.0036780446508861333, 'sil': 0.0036780446508861333, 'verify': 0.0036780446508861333, 'across': 0.0036780446508861333, 'scenarios': 0.0036780446508861333, 'leverages': 0.0036780446508861333, 'existing': 0.0036780446508861333, 'stateoftheart': 0.0036780446508861333, 'guidelines': 0.0036780446508861333, 'process': 0.0036780446508861333, 'identification': 0.0036780446508861333, 'define': 0.0036780446508861333, 'packages': 0.0036780446508861333, 'compliance': 0.0036780446508861333, 'adequate': 0.0036780446508861333}"
+48aa746ab6778bea,6a08e16b3e433771,652882a0007be07f,61ac1504f658285d,3,Indeed,InfoMagnus,InfoMagnus,/q-InfoMagnus-l-los-angeles-jobs.html,Huntington Beach,US,92649.0,Huntington Beach,Data Services Practice Director,3ac9f4a8ebba6c10,g0yvtXyVn6GO-uwTcGRY2-29_HHk3HWycFjez9Z_tbFxMKnQ9L5zm_T-dT4coWun,"Info
+Magnus
+ 
+is an Information Technology software consulting firm located in beautiful Huntington Beach California.
+The Opportunity: 
+InfoMagnus is looking for an experienced, quantitative, business savvy, articulate and creative Director of Data Warehouse, Analytics & ML to lead a team of exceptional database professionals. Under your leadership, the team will be responsible to deliver to our clients a series of services including:
+ETL and data warehousing
+Reporting and analytics
+Machine Learning solutions
+The ideal candidate has worked for many years in the consulting field and has a consultative mindset, and is used working with multiple clients on multiple projects. He/she must be a motivating leader that is able to select and focus on high-impact, complex data projects.
+You Are Great At: 
+Utilize your expertise in providing hands-on people leadership both in the U.S. as well as offshore
+Work closely with clients from a strategic perspective to understand their needs and help to architect and develop delivery plans for our data services team
+Foster a culture of high-performance, with team members located across the organization
+Self-motivated and driven to accomplish company goals and who is comfortable multitasking in a fast paced organization
+What It Takes: 
+10+ years of business intelligence, data analytics, reporting, analytics and/or data modeling
+5+ years of experience managing data technical delivery teams
+Bachelor’s degree in computer science, mathematics, statistics, or related field; advanced degree in computer science or analytics preferred
+Experience building and growing an data warehousing and analytics team with strong functional expertise and influence while fostering a supportive learning environment
+Highly skilled in databases, data warehousing, ETL work, reporting and analytics using large data sets
+Advanced skilled with ML and AI is a plus
+Exceptional problem-solving skills: 
+ demonstrated ability to understand business challenges, structure complex problems, develop solutions
+Experience with cloud, e-commerce, direct-to-consumer, and SMB businesses
+Ability to communicate complex concepts in a simple way
+Demonstrated ability to function in a fast-paced, innovative organization
+Ability to prioritize work to balance multiple projects and deadlines across multiple business stakeholder teams
+Ability to effectively liaise with multiple internal teams and senior leadership
+We will provide you with a great benefit package: 
+Medical
+Dental
+Vision
+Life
+HSA
+FSA
+401K
+Vacation
+Sick
+Holiday
+Equal Opportunity Employer
+Job Type: Full-time
+Pay: $175,000.00 - $185,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Employee discount
+Health insurance
+Paid time off
+Vision insurance
+Schedule:
+Monday to Friday
+Education:
+Bachelor's (Preferred)
+Experience:
+Management Experience: 1 year (Preferred)
+Leadership Experience: 1 year (Preferred)
+Work Location:
+One location
+Work Remotely:
+Temporarily due to COVID-19","{'organization': 0.01192176231432667, 'work': 0.011312231257705618, 'experience': 0.0075677870187554185, 'info': 0.003973920771442223, 'magnus': 0.003973920771442223, 'information': 0.003973920771442223, 'technology': 0.003973920771442223, 'software': 0.003973920771442223, 'firm': 0.003973920771442223, 'beautiful': 0.003973920771442223, 'huntington': 0.003973920771442223, 'beach': 0.003973920771442223, 'california': 0.003973920771442223, 'infomagnus': 0.003973920771442223, 'looking': 0.003973920771442223, 'experienced': 0.003973920771442223, 'quantitative': 0.003973920771442223, 'savvy': 0.003973920771442223, 'articulate': 0.003973920771442223, 'creative': 0.003973920771442223, 'director': 0.003973920771442223, 'warehouse': 0.003973920771442223, 'lead': 0.003973920771442223, 'database': 0.003973920771442223, 'professionals': 0.003973920771442223, 'responsible': 0.003973920771442223, 'deliver': 0.003973920771442223, 'series': 0.003973920771442223, 'including': 0.003973920771442223, 'machine': 0.003973920771442223, 'ideal': 0.003973920771442223, 'candidate': 0.003973920771442223, 'worked': 0.003973920771442223, 'many': 0.003973920771442223, 'consultative': 0.003973920771442223, 'mindset': 0.003973920771442223, 'used': 0.003973920771442223, 'working': 0.003973920771442223, 'heshe': 0.003973920771442223, 'must': 0.003973920771442223, 'motivating': 0.003973920771442223, 'leader': 0.003973920771442223, 'able': 0.003973920771442223, 'select': 0.003973920771442223, 'focus': 0.003973920771442223, 'highimpact': 0.003973920771442223, 'utilize': 0.003973920771442223, 'providing': 0.003973920771442223, 'handson': 0.003973920771442223, 'people': 0.003973920771442223, 'us': 0.003973920771442223, 'well': 0.003973920771442223, 'offshore': 0.003973920771442223, 'closely': 0.003973920771442223, 'strategic': 0.003973920771442223, 'perspective': 0.003973920771442223, 'needs': 0.003973920771442223, 'help': 0.003973920771442223, 'architect': 0.003973920771442223, 'plans': 0.003973920771442223, 'foster': 0.003973920771442223, 'culture': 0.003973920771442223, 'highperformance': 0.003973920771442223, 'members': 0.003973920771442223, 'selfmotivated': 0.003973920771442223, 'driven': 0.003973920771442223, 'accomplish': 0.003973920771442223, 'company': 0.003973920771442223, 'goals': 0.003973920771442223, 'comfortable': 0.003973920771442223, 'multitasking': 0.003973920771442223, 'fast': 0.003973920771442223, 'paced': 0.003973920771442223, 'takes': 0.003973920771442223, 'intelligence': 0.003973920771442223, 'andor': 0.003973920771442223, 'modeling': 0.003973920771442223, 'managing': 0.003973920771442223, 'technical': 0.003973920771442223, 'mathematics': 0.003973920771442223, 'statistics': 0.003973920771442223, 'related': 0.003973920771442223, 'building': 0.003973920771442223, 'growing': 0.003973920771442223, 'strong': 0.003973920771442223, 'functional': 0.003973920771442223, 'influence': 0.003973920771442223, 'fostering': 0.003973920771442223, 'supportive': 0.003973920771442223, 'environment': 0.003973920771442223, 'highly': 0.003973920771442223, 'databases': 0.003973920771442223, 'using': 0.003973920771442223, 'large': 0.003973920771442223, 'sets': 0.003973920771442223, 'ai': 0.003973920771442223, 'plus': 0.003973920771442223, 'problemsolving': 0.003973920771442223, 'skills': 0.003973920771442223, 'challenges': 0.003973920771442223}"
+1e24db1874d9bc07,c0732f238b249c8a,6b92e37c06eebbb5,fd474e19b2fbd2c9,4,Epirus,Epirus,Epirus,/q-Epirus-l-los-angeles-jobs.html,Hawthorne,US,,Hawthorne,Director of Machine Learning,61fd61c2737e4b7a,twcb2ZEJnz8JwcbwiR9wTVPs4qETAbDlhThHjxgP1-GQ5ckdDWiKs7HJbHG2QBMV,"About Epirus
+
+
+
+Epirus is the creator of a revolutionary electromagnetic pulse (EMP) technology designed for protecting the world's skies and airspaces from Unmanned Airborne Vehicles (a.k.a ""drones""). Among counter-drone solutions, our technology is unique in its capability to disable entire swarms of drones quickly and effectively. The core innovation behind this marvel is Epirus's SmartPower(TM), an intelligent power system that optimizes power-efficiency and dramatically reduces size. At Epirus, we're on a journey to push the boundaries of what's possible for the future of power electronics.
+
+
+
+About the Opportunity
+
+
+
+ÂThe Director of Machine Learning will lead Epirus in spearheading new innovative solutions and enhancements to existing and new products by applying machine learning and leveraging data across all aspects of the business. This role is visible in customer engagement, and this leader must be able to translate customer needs to Epirus' technical teams as the company develops customer-specific, enterprise-grade solutions and services.
+
+
+
+The Director of Machine Learning will lead Epirus' modeling and algorithm R&D, tying technology to strategic business goals, and leading the company to new heights as it delivers the market's first and best Software Defined EMP and the world's most powerful energy source to date. He/she will define Epirus' data science roadmap and will be responsible for the innovation and development of Epirus' machine learning capabilities.
+
+
+
+Equally important to technical vision, the Director of Machine Learning must be able to recruit, retain and motivate a fast-growing, high output team of passionate data scientists and ML engineers. He/she will be an inspirational leader to the data team with passion and influence that will inspire the company. The Director of Machine Learning will be a strong collaborator and able to effectively partner with other teams, executives and external partners to ensure Epirus' growth and market success.
+
+
+
+Responsibilities
+
+
+
+
+Establish the company's technical vision and lead aspects of model development
+
+
+This leader will help scope prototypes, ensure product-market fit with customers, and (when appropriate) manage the pass-off to Product and Engineering to integrate the prototypes into its core offerings
+
+
+Lead and foster mentorship and healthy team camaraderie among engineers, data scientists and product talent
+
+
+Partner with product and leadership on crafting the company's product roadmap
+
+
+Develop a recruiting strategy that will attract extraordinary data, ML and AI talent from a wide range of diverse backgrounds
+
+
+Partner with other members of the leadership team to improve the level of innovation, efficiency and effectiveness through the use of technology
+
+
+Lead the Modeling and Algorithm organization and ensure the business has transparency into the data roadmap and has access to data and important dashboards necessary for company-wide accountability and continuous improvement
+
+
+Support and be an advocate for the company's culture, mission and values
+
+
+Stay current on leading edge technology so the organization remains at the forefront of industry innovation
+
+
+
+
+Qualifications
+
+
+
+
+Strong knowledge in the design and performance of Machine Learning topologies and optimization theory
+
+
+Ideally PhD or equivalent Science experience
+
+
+A proven track record of leadership, including knowing when to be empathetic; how to communicate across teams and set and articulate a vision; and the ability to actively listen and incorporate new ideas
+
+
+Has five+ years experience leading teams in the design of machine learning models requiring solutions using embedded processors or in RTL
+
+
+Ability to architect complex systems and data infrastructures
+
+
+Hands on technically â€“ can code when necessary but also think strategically about the product roadmap and technical decisions
+
+
+Product sensibility; has worked closely with product management and design
+
+
+Has a perspective on and specific experience implementing engineering process and best cares deeply about and enjoys respectful cultures that value great ideas from all people at all levels of the organization
+
+
+Action orientated with the ability to influence others and implement change and standardized processes
+
+
+Attention to detail with good business judgment and exceptional maturity, diplomacy and communication skills
+
+
+Direct and clear communicator practices around scoping, planning, dependency management, stakeholder involvement, delivery, etc.
+
+
+US Citizen (future security clearance may be required)
+
+
+
+
+
+At Epirus, we strive to be fast, efficient, and limitless in our approach. This agility, combined with a culture of innovation in systems development, allows us to move quickly without losing the decades of lessons learned.
+
+
+
+We have developed technologies that leverage new breakthroughs in sensors and high-power microwaves, combined with computer vision and advanced software control. Our first broad-market application is a comprehensive defense system to defeat offensive drones at scale.","{'organization': 0.008569127232197125, 'experience': 0.006898254533949196, 'quickly': 0.004598836355966131, 'creator': 0.003808500992087612, 'revolutionary': 0.003808500992087612, 'electromagnetic': 0.003808500992087612, 'pulse': 0.003808500992087612, 'designed': 0.003808500992087612, 'protecting': 0.003808500992087612, 'skies': 0.003808500992087612, 'airspaces': 0.003808500992087612, 'unmanned': 0.003808500992087612, 'airborne': 0.003808500992087612, 'vehicles': 0.003808500992087612, 'aka': 0.003808500992087612, 'counterdrone': 0.003808500992087612, 'unique': 0.003808500992087612, 'capability': 0.003808500992087612, 'disable': 0.003808500992087612, 'entire': 0.003808500992087612, 'swarms': 0.003808500992087612, 'behind': 0.003808500992087612, 'marvel': 0.003808500992087612, 'epiruss': 0.003808500992087612, 'smartpowertm': 0.003808500992087612, 'intelligent': 0.003808500992087612, 'optimizes': 0.003808500992087612, 'powerefficiency': 0.003808500992087612, 'dramatically': 0.003808500992087612, 'reduces': 0.003808500992087612, 'size': 0.003808500992087612, 'journey': 0.003808500992087612, 'push': 0.003808500992087612, 'boundaries': 0.003808500992087612, 'whats': 0.003808500992087612, 'possible': 0.003808500992087612, 'electronics': 0.003808500992087612, 'opportunity': 0.003808500992087612, 'âthe': 0.003808500992087612, 'spearheading': 0.003808500992087612, 'innovative': 0.003808500992087612, 'enhancements': 0.003808500992087612, 'existing': 0.003808500992087612, 'products': 0.003808500992087612, 'applying': 0.003808500992087612, 'leveraging': 0.003808500992087612, 'role': 0.003808500992087612, 'visible': 0.003808500992087612, 'engagement': 0.003808500992087612, 'translate': 0.003808500992087612, 'needs': 0.003808500992087612, 'develops': 0.003808500992087612, 'customerspecific': 0.003808500992087612, 'enterprisegrade': 0.003808500992087612, 'services': 0.003808500992087612, 'rd': 0.003808500992087612, 'tying': 0.003808500992087612, 'strategic': 0.003808500992087612, 'goals': 0.003808500992087612, 'heights': 0.003808500992087612, 'delivers': 0.003808500992087612, 'markets': 0.003808500992087612, 'defined': 0.003808500992087612, 'powerful': 0.003808500992087612, 'energy': 0.003808500992087612, 'source': 0.003808500992087612, 'date': 0.003808500992087612, 'define': 0.003808500992087612, 'responsible': 0.003808500992087612, 'capabilities': 0.003808500992087612, 'equally': 0.003808500992087612, 'recruit': 0.003808500992087612, 'retain': 0.003808500992087612, 'motivate': 0.003808500992087612, 'fastgrowing': 0.003808500992087612, 'high': 0.003808500992087612, 'output': 0.003808500992087612, 'passionate': 0.003808500992087612, 'inspirational': 0.003808500992087612, 'passion': 0.003808500992087612, 'inspire': 0.003808500992087612, 'collaborator': 0.003808500992087612, 'executives': 0.003808500992087612, 'external': 0.003808500992087612, 'partners': 0.003808500992087612, 'growth': 0.003808500992087612, 'market': 0.003808500992087612, 'success': 0.003808500992087612, 'responsibilities': 0.003808500992087612, 'establish': 0.003808500992087612, 'model': 0.003808500992087612, 'help': 0.003808500992087612, 'scope': 0.003808500992087612, 'productmarket': 0.003808500992087612, 'fit': 0.003808500992087612, 'customers': 0.003808500992087612, 'appropriate': 0.003808500992087612, 'manage': 0.003808500992087612, 'passoff': 0.003808500992087612, 'integrate': 0.003808500992087612}"
+c0fb5b16e8cb7c12,8aa00ea0d3a4415a,2d3e08667f6efa3f,115307c5b7ae393c,5,Indeed,Zest AI,Zest AI,/q-Zest-AI-l-los-angeles-jobs.html,Burbank,US,,Burbank,Senior Data Scientist,e4def748a1a55a53,wQqIkzc2s6nicwjvnOnMaSBwb8R4TUsc5HSm5ps1F5JfzCp2kgBRgLA-pHxERbd4,"Data Scientists at Zest AI use the power of machine learning to build models and optimize software tools that our customers depend on in order to meet the financial needs of people around the world. By leveraging a combination of machine learning and vast amounts of data points, we seek to challenge the traditional credit scoring model, while expanding our proprietary AI-explainability technology across the fintech industry.
+In this role you will: 
+Translate unstructured business problems into well-defined machine learning projects
+Collaborate with a cross-functional team of Engineers, Product Managers, and Business Analysts to identify and manage high leverage opportunities for modeling work
+Design and implement highly generalizable models for predicting various outcomes. Incorporate and develop learnings back into the product for continuous improvement opportunities
+Build demos, guidance documentation, and assist with training to help others become more proficient
+Take responsibility for modeling implementation in real world settings. This may include creating experiments and developing prototypes, with the goal of returning practical value to our customers
+We are looking for: 
+MS or PhD in a quantitative field (Computer Science, Engineering, Physics, etc.) with hands-on experience of 3 years or more – experience in financial services is a plus!
+Strong fundamentals in programming, statistics, mathematics, and ML algorithms (neural networks, tree-based methods, optimizers, super/unsupervised learning, feature engineering, etc.)
+Expert experience designing, developing, and implementing machine learning models/algorithms. Familiar with implementing and developing/extending ML/AI frameworks (TensorFlow, XGBoost, Scikit-learn, etc.)
+Good development awareness regarding memory, disk I/O, and CPU/GPU management. Experience with modular/modern software design practices strongly preferred, in addition to experience with Python
+Passionate about ML/AI and how it can improve on the world
+Perks and benefits: 
+Robust healthcare plans, matching 401K and unlimited vacation time
+Weekly companywide “all hands” meetings
+Virtual weekly happy hours, sometimes casual and other times with a focus around topics like racial discrimination and LGBTQ+ history
+Employee care packages to make WFH more enjoyable
+About Zest AI: 
+Zest AI has been perfecting AI for consumer lending decisions since 2009. Our Model Management System helps lenders make better decisions and better loans—increasing revenue, reducing risk, and automating compliance. Our mission is to make fair and transparent credit available to everyone and our software creates some of the most inclusive risk models in the industry. Using Zest-built machine learning software, financial institutions can dramatically expand credit access to deserving people with no added risk. Learn more at Zest.ai and connect with us on Twitter @Zest_AI or our Insights blog.
+Zest is committed to diversity, equity, and inclusion and encourages professionals from underrepresented groups in technology and financial services to apply.
+Please review our CCPA Policy with regard to applicant and employee personal information here.
+Job Type: Full-time","{'zest': 0.01625178656896195, 'experience': 0.010708181506132104, 'zestai': 0.008125893284480976, 'scientists': 0.006554130970286088, 'use': 0.006554130970286088, 'power': 0.006554130970286088, 'optimize': 0.006554130970286088, 'tools': 0.006554130970286088, 'depend': 0.006554130970286088, 'order': 0.006554130970286088, 'meet': 0.006554130970286088, 'needs': 0.006554130970286088, 'leveraging': 0.006554130970286088, 'combination': 0.006554130970286088, 'vast': 0.006554130970286088, 'amounts': 0.006554130970286088, 'points': 0.006554130970286088, 'seek': 0.006554130970286088, 'challenge': 0.006554130970286088, 'traditional': 0.006554130970286088, 'scoring': 0.006554130970286088, 'expanding': 0.006554130970286088, 'proprietary': 0.006554130970286088, 'aiexplainability': 0.006554130970286088, 'across': 0.006554130970286088, 'fintech': 0.006554130970286088, 'role': 0.006554130970286088, 'translate': 0.006554130970286088, 'unstructured': 0.006554130970286088, 'problems': 0.006554130970286088, 'welldefined': 0.006554130970286088, 'projects': 0.006554130970286088, 'collaborate': 0.006554130970286088, 'crossfunctional': 0.006554130970286088, 'team': 0.006554130970286088, 'engineers': 0.006554130970286088, 'managers': 0.006554130970286088, 'analysts': 0.006554130970286088, 'identify': 0.006554130970286088, 'manage': 0.006554130970286088, 'high': 0.006554130970286088, 'leverage': 0.006554130970286088, 'work': 0.006554130970286088, 'implement': 0.006554130970286088, 'highly': 0.006554130970286088, 'generalizable': 0.006554130970286088, 'predicting': 0.006554130970286088, 'various': 0.006554130970286088, 'outcomes': 0.006554130970286088, 'incorporate': 0.006554130970286088, 'develop': 0.006554130970286088, 'learnings': 0.006554130970286088, 'back': 0.006554130970286088, 'continuous': 0.006554130970286088, 'improvement': 0.006554130970286088, 'demos': 0.006554130970286088, 'guidance': 0.006554130970286088, 'documentation': 0.006554130970286088, 'assist': 0.006554130970286088, 'training': 0.006554130970286088, 'help': 0.006554130970286088, 'others': 0.006554130970286088, 'become': 0.006554130970286088, 'proficient': 0.006554130970286088, 'take': 0.006554130970286088, 'responsibility': 0.006554130970286088, 'implementation': 0.006554130970286088, 'real': 0.006554130970286088, 'settings': 0.006554130970286088, 'may': 0.006554130970286088, 'include': 0.006554130970286088, 'creating': 0.006554130970286088, 'experiments': 0.006554130970286088, 'prototypes': 0.006554130970286088, 'goal': 0.006554130970286088, 'returning': 0.006554130970286088, 'practical': 0.006554130970286088, 'value': 0.006554130970286088, 'looking': 0.006554130970286088, 'ms': 0.006554130970286088, 'phd': 0.006554130970286088, 'quantitative': 0.006554130970286088, 'field': 0.006554130970286088, 'computer': 0.006554130970286088, 'science': 0.006554130970286088, 'physics': 0.006554130970286088, 'handson': 0.006554130970286088, 'years': 0.006554130970286088, 'plus': 0.006554130970286088, 'strong': 0.006554130970286088, 'fundamentals': 0.006554130970286088, 'programming': 0.006554130970286088, 'statistics': 0.006554130970286088, 'mathematics': 0.006554130970286088, 'ml': 0.006554130970286088, 'algorithms': 0.006554130970286088, 'neural': 0.006554130970286088, 'networks': 0.006554130970286088, 'treebased': 0.006554130970286088, 'methods': 0.006554130970286088}"
+4cfb76b3edfbab1e,df7a4d6c69261d7d,098009e0950964ff,a4e4e2eaf26690c9,6,Accenture,Accenture,Accenture,/q-Accenture-l-los-angeles-jobs.html,Los Angeles,US,,Los Angeles,Cloud Engineering Manager,d05a4fe50c5af0a8,2xoO0TjyPVRYyCMAB-zZvViwQ80-7FavJeC9rcmAU2c9BjiPEuIOBG4lt7FQRspl,"Accenture Applied Intelligence, the people who love using data to tell a story. We’re also the world’s largest team of data scientists, data engineers, and experts in machine learning and AI. A great day for us? Solving big problems using the latest tech, serious brain power and deep knowledge of just about every industry. We believe a mix of data, analytics, automation and responsible AI can do almost anything—spark digital metamorphoses, widen the range of what humans can do and breathe life into smart products and services. Want to join our crew of sharp analytical minds? Visit us here to find out more about Applied Intelligence.
+
+A cloud data engineering maven who thrives in a team setting where you can turn your prodigious creative and analytical powers to obliterating problems. Your superpower? Building and delivering AWS and/or Azure Cloud Platforms infrastructure and solutions to help our clients meet the soaring data and cloud demands of AI and machine learning, IoT, advanced analytics, open source and other emerging digital technologies. You have top-notch communication and people skills and you’re up for traveling regularly to client sites (post COVID).
+
+The Work:
+
+Gather, engineer and prepare data to help clients make smarter decisions
+
+Help in a full technical discovery, spotting pain points, business and technical requirements, and “as is” and “to be” scenarios
+
+Assess the full technology stack of services needed including PaaS (Platform-as-a-Service), IaaS (Infrastructure-as-a-Service), SaaS (Software-as-a-Service), operations, management and automation
+
+Interact mainly with your direct supervisor and be ready to interact with peers and/or managers on the client side and/or within Accenture
+
+Make your own decisions to define solutions and ask for guidance on complex problems
+
+Apply methodology, reusable assets, and previous work experience so that your work is always of high quality
+
+Compare alternative solutions from both technical and business perspectives which support the define-cost and service requirements
+
+Keep up to speed on new and emerging technologies/patterns/methodologies and products that may be of interest to our clients
+
+Be ready to rack up those air miles with weekly travel to client sites
+
+
+
+
+Here’s What You Need
+:
+
+Minimum of 5 years' technical solutions implementation, architecture design, evaluation and investigation in a cloud environment (specifically AWS and/or Azure)
+
+Minimum of 1 year of Client Management and/or Project Management experience
+
+Minimum of 1 year of professional experience in Solution/technical architecture in the cloud
+
+Minimum of 1 year of experience in Big Data/analytics/information analysis/database management/ event-driven/microservices/DevOps/ML Ops in the cloud
+
+Bonus Points If
+:
+
+You have a minimum of 3' years of experience in Cloud Platforms (specifically AWS and/or Azure)
+
+You are AWS or Azure Certified
+
+You have experience in any of the Messaging platforms (Kafka, Kinesis, Azure Event Hub, Streaming platforms using PubSub, etc.)
+
+You have hands-on experience with any of the following programming languages: PySpark, Python, Java, R, Scala, Go
+
+As required by the Colorado Equal Pay Transparency Act, Accenture provides a reasonable range of minimum compensation for roles that may be hired in Colorado. Actual compensation is influenced by a wide array of factors including but not limited to skill set, level of experience, and specific office location. For the state of Colorado 
+only
+, the range of starting pay for this role is $113,000 - $228,099
+ 
+and 
+information on benefits offered is here.
+
+What We Believe
+
+We have an unwavering commitment to diversity with the aim that every one of our people has a full sense of belonging within our organization. As a business imperative, every person at Accenture has the responsibility to create and sustain an inclusive environment.
+
+Inclusion and diversity are fundamental to our culture and core values. Our rich diversity makes us more innovative and more creative, which helps us better serve our clients and our communities. 
+Read more here
+
+Equal Employment Opportunity Statement
+
+Accenture is an Equal Opportunity Employer. We believe that no one should be discriminated against because of their differences, such as age, disability, ethnicity, gender, gender identity and expression, religion or sexual orientation.
+
+All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.
+
+Accenture is committed to providing veteran employment opportunities to our service men and women.
+
+For details, view a copy of the 
+Accenture Equal Opportunity and Affirmative Action Policy Statement
+.
+
+Requesting An Accommodation
+
+Accenture is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture and require accommodation to perform the essential functions of your role, you will be asked to participate in our reasonable accommodation process. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired.
+
+If you would like to be considered for employment opportunities with Accenture and have accommodation needs for a disability or religious observance, please call us toll free at 
+1 (877) 889-9009
+, send us an 
+email
+ or speak with your recruiter.
+
+Other Employment Statements
+
+Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.
+
+Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.
+
+Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.
+
+The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information.","{'experience': 0.011180008045653998, 'azure': 0.009305077164853943, 'equal': 0.006987505028533749, 'work': 0.005125376663235743, 'job': 0.004729576474947477, 'authorization': 0.0037220308659415774, 'love': 0.003448232309138541, 'tell': 0.003448232309138541, 'story': 0.003448232309138541, 'also': 0.003448232309138541, 'largest': 0.003448232309138541, 'scientists': 0.003448232309138541, 'engineers': 0.003448232309138541, 'experts': 0.003448232309138541, 'great': 0.003448232309138541, 'day': 0.003448232309138541, 'solving': 0.003448232309138541, 'latest': 0.003448232309138541, 'tech': 0.003448232309138541, 'serious': 0.003448232309138541, 'brain': 0.003448232309138541, 'power': 0.003448232309138541, 'deep': 0.003448232309138541, 'knowledge': 0.003448232309138541, 'industry': 0.003448232309138541, 'mix': 0.003448232309138541, 'responsible': 0.003448232309138541, 'almost': 0.003448232309138541, 'metamorphoses': 0.003448232309138541, 'widen': 0.003448232309138541, 'humans': 0.003448232309138541, 'breathe': 0.003448232309138541, 'life': 0.003448232309138541, 'smart': 0.003448232309138541, 'want': 0.003448232309138541, 'join': 0.003448232309138541, 'crew': 0.003448232309138541, 'sharp': 0.003448232309138541, 'minds': 0.003448232309138541, 'visit': 0.003448232309138541, 'find': 0.003448232309138541, 'engineering': 0.003448232309138541, 'maven': 0.003448232309138541, 'thrives': 0.003448232309138541, 'setting': 0.003448232309138541, 'turn': 0.003448232309138541, 'prodigious': 0.003448232309138541, 'powers': 0.003448232309138541, 'obliterating': 0.003448232309138541, 'superpower': 0.003448232309138541, 'building': 0.003448232309138541, 'delivering': 0.003448232309138541, 'infrastructure': 0.003448232309138541, 'meet': 0.003448232309138541, 'soaring': 0.003448232309138541, 'demands': 0.003448232309138541, 'iot': 0.003448232309138541, 'advanced': 0.003448232309138541, 'open': 0.003448232309138541, 'source': 0.003448232309138541, 'technologies': 0.003448232309138541, 'topnotch': 0.003448232309138541, 'communication': 0.003448232309138541, 'skills': 0.003448232309138541, 'traveling': 0.003448232309138541, 'regularly': 0.003448232309138541, 'post': 0.003448232309138541, 'covid': 0.003448232309138541, 'gather': 0.003448232309138541, 'engineer': 0.003448232309138541, 'prepare': 0.003448232309138541, 'smarter': 0.003448232309138541, 'discovery': 0.003448232309138541, 'spotting': 0.003448232309138541, 'pain': 0.003448232309138541, 'scenarios': 0.003448232309138541, 'assess': 0.003448232309138541, 'technology': 0.003448232309138541, 'stack': 0.003448232309138541, 'paas': 0.003448232309138541, 'platformasaservice': 0.003448232309138541, 'iaas': 0.003448232309138541, 'infrastructureasaservice': 0.003448232309138541, 'saas': 0.003448232309138541, 'softwareasaservice': 0.003448232309138541, 'operations': 0.003448232309138541, 'mainly': 0.003448232309138541, 'direct': 0.003448232309138541, 'supervisor': 0.003448232309138541, 'peers': 0.003448232309138541, 'managers': 0.003448232309138541, 'side': 0.003448232309138541, 'define': 0.003448232309138541, 'ask': 0.003448232309138541, 'guidance': 0.003448232309138541, 'complex': 0.003448232309138541, 'apply': 0.003448232309138541, 'methodology': 0.003448232309138541, 'reusable': 0.003448232309138541, 'assets': 0.003448232309138541}"
+e415fcca0cab3a5b,df7a4d6c69261d7d,098009e0950964ff,a4e4e2eaf26690c9,7,Accenture,Accenture,Accenture,/q-Accenture-l-los-angeles-jobs.html,Los Angeles,US,,Los Angeles,Artificial Intelligence Engineering Lead,d05a4fe50c5af0a8,M8curE_78AB2NZz5sTSH0i6_DopDOIwJdxrcabGJcHxCL8ghNOBgo7lNutiID-ZK,"Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Interactive, Technology and Operations services—all powered by the world’s largest network of Advanced Technology and Intelligent Operations centers. Our 514,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities. Visit us at www.accenture.com
+
+We are:
+
+Solutions.AI is Accenture's collection of AI solutions that are designed to unlock new efficiencies and growth, enable new ways of working, and facilitate game-changing innovation–3x faster than the typical product lifecycle. Built and delivered on the foundation of Accenture's unparalleled AI expertise, data services, IP and ecosystem partners, our scalable, modular solutions minimize time to market and maximize business impact.
+
+The next AI revolution will be built by people like you. Visit us here to find out more about Solutions.AI.
+
+You are:
+
+You are a leader in cutting edge artificial technology organizations! You are a distinguished and passionate leader in the world of artificial intelligence. You love building products and solutions that to draw business insights and help make business decisions that affect the entire organization, by applying your deep expertise in AI, machine learning, data science, cloud platforms, software engineering, DevOps, and more. Your curiosity knows no bounds, and you’re looking for the next problem to be solved before others even acknowledge there’s a problem.
+
+You are an AI technologist and evangelist who loves to teach, tell stories, and inspire passion so others can see what you see – that AI is fueling innovation and growth across all sectors. The infusion of a sound understanding of programming, software engineering, and data science is what you want to be known for.
+
+And you love to build, lead, and inspire high performing, global Engineering teams, setting a clear vision and strategy, and providing the technical leadership to deliver value to our clients.
+
+The work:
+
+Provide technical leadership to guide a team of full-stack software developers who operate on both front- and back-end systems for AI solutions
+
+Oversee and guide the analyzing, writing, building, and deployment of software solutions
+
+Manage the end-to-end life cycle for the production of software and applications in solutions.ai portfolio including integrated use of advanced data, high-end AI/ML algorithms, and various insight consumption interfaces
+
+Build a global team of AI solution developers with a diverse set of skills encompassing data sourcing, data management, data governance, machine learning and deep learning engineering expertise, modern technical architecture, and functional domain expertise
+
+Prototype and demonstrate advanced solutions for clients in consulting and advisory environments.
+
+Use your judgment to craft solutions to complex problems or seek guidance as needed
+
+Stay current on new products that clients could use
+
+Be a trusted advisor to your Accenture colleagues and to your clients
+
+
+
+
+Here’s what you need:
+
+Minimum of 10 years of design and implementation of AI software that process data, as well as develop and maintain AI systems with machine learning and deep learning algorithms on a modern cloud infrastructure (AWS, Azure, or GCP)
+
+Minimum of 7 years of experience designing, documenting, and implementing end-to-end DevOps solutions applying concepts such as infrastructure-as-code, CI/CD, SAST/DAST, automated testing, push button deployments, etc.
+
+Minimum of 7 years of AI / ML solution development experience along with Docker
+
+Minimum 1 year of experience managing Kubernetes clusters
+
+Bonus points if:
+
+Certifications Preferred: Cloud Architecture certification from any of the three major cloud platforms (AWS / Azure / GCP)
+
+Experience in pre-sales or enterprise consulting.
+
+Customer facing experience of discovery, assessment, execution, and operations.
+
+Possess a blend of advanced analytical capabilities and consulting expertise that will create value and insights for our clients
+
+Important Information
+
+Travel
+
+For now, all Accenture business travel, international and domestic, is currently restricted to client-essential sales/delivery activity only.
+
+Please note: The safety and well-being of our people continues to be the top priority, and our decisions around travel are informed by government COVID-19 response directives, recommendations from leading health authorities and guidance from a number of infectious disease experts.
+
+Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States and with Accenture.
+
+As required by the Colorado Equal Pay Transparency Act, Accenture provides a reasonable range of minimum compensation for roles that may be hired in Colorado. Actual compensation is influenced by a wide array of factors including but not limited to skill set, level of experience, and specific office location. For the state of Colorado 
+only
+, the range of starting pay for this role is 
+$151,900 - $235,699 and 
+information on benefits offered is here.
+
+What We Believe
+
+We have an unwavering commitment to diversity with the aim that every one of our people has a full sense of belonging within our organization. As a business imperative, every person at Accenture has the responsibility to create and sustain an inclusive environment.
+
+Inclusion and diversity are fundamental to our culture and core values. Our rich diversity makes us more innovative and more creative, which helps us better serve our clients and our communities. 
+Read more here
+
+Equal Employment Opportunity Statement
+
+Accenture is an Equal Opportunity Employer. We believe that no one should be discriminated against because of their differences, such as age, disability, ethnicity, gender, gender identity and expression, religion or sexual orientation.
+
+All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.
+
+Accenture is committed to providing veteran employment opportunities to our service men and women.
+
+For details, view a copy of the 
+Accenture Equal Opportunity and Affirmative Action Policy Statement
+.
+
+Requesting An Accommodation
+
+Accenture is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture and require accommodation to perform the essential functions of your role, you will be asked to participate in our reasonable accommodation process. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired.
+
+If you would like to be considered for employment opportunities with Accenture and have accommodation needs for a disability or religious observance, please call us toll free at 
+1 (877) 889-9009
+, send us an 
+email
+ or speak with your recruiter.
+
+Other Employment Statements
+
+Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.
+
+Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.
+
+Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.
+
+The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information.","{'equal': 0.00658480256074286, 'experience': 0.005772943932763873, 'authorization': 0.0042703362345973125, 'job': 0.004170067074432972, 'expertise': 0.004123531380545624, 'require': 0.003950881536445717, 'professional': 0.002945340732727927, 'digital': 0.002945340732727927, 'security': 0.002945340732727927, 'combining': 0.002945340732727927, 'unmatched': 0.002945340732727927, 'specialized': 0.002945340732727927, 'industries': 0.002945340732727927, 'offer': 0.002945340732727927, 'interactive': 0.002945340732727927, 'powered': 0.002945340732727927, 'largest': 0.002945340732727927, 'network': 0.002945340732727927, 'intelligent': 0.002945340732727927, 'centers': 0.002945340732727927, 'promise': 0.002945340732727927, 'human': 0.002945340732727927, 'ingenuity': 0.002945340732727927, 'day': 0.002945340732727927, 'serving': 0.002945340732727927, 'countries': 0.002945340732727927, 'embrace': 0.002945340732727927, 'power': 0.002945340732727927, 'change': 0.002945340732727927, 'shared': 0.002945340732727927, 'success': 0.002945340732727927, 'shareholders': 0.002945340732727927, 'wwwaccenturecom': 0.002945340732727927, 'collection': 0.002945340732727927, 'designed': 0.002945340732727927, 'unlock': 0.002945340732727927, 'efficiencies': 0.002945340732727927, 'enable': 0.002945340732727927, 'ways': 0.002945340732727927, 'working': 0.002945340732727927, 'gamechanging': 0.002945340732727927, 'faster': 0.002945340732727927, 'typical': 0.002945340732727927, 'product': 0.002945340732727927, 'lifecycle': 0.002945340732727927, 'delivered': 0.002945340732727927, 'foundation': 0.002945340732727927, 'unparalleled': 0.002945340732727927, 'ip': 0.002945340732727927, 'ecosystem': 0.002945340732727927, 'scalable': 0.002945340732727927, 'modular': 0.002945340732727927, 'minimize': 0.002945340732727927, 'time': 0.002945340732727927, 'market': 0.002945340732727927, 'maximize': 0.002945340732727927, 'impact': 0.002945340732727927, 'revolution': 0.002945340732727927, 'find': 0.002945340732727927, 'cutting': 0.002945340732727927, 'edge': 0.002945340732727927, 'organizations': 0.002945340732727927, 'distinguished': 0.002945340732727927, 'passionate': 0.002945340732727927, 'world': 0.002945340732727927, 'intelligence': 0.002945340732727927, 'draw': 0.002945340732727927, 'help': 0.002945340732727927, 'make': 0.002945340732727927, 'affect': 0.002945340732727927, 'entire': 0.002945340732727927, 'curiosity': 0.002945340732727927, 'knows': 0.002945340732727927, 'bounds': 0.002945340732727927, 'looking': 0.002945340732727927, 'solved': 0.002945340732727927, 'even': 0.002945340732727927, 'acknowledge': 0.002945340732727927, 'technologist': 0.002945340732727927, 'evangelist': 0.002945340732727927, 'loves': 0.002945340732727927, 'teach': 0.002945340732727927, 'tell': 0.002945340732727927, 'stories': 0.002945340732727927, 'passion': 0.002945340732727927, 'fueling': 0.002945340732727927, 'innovation': 0.002945340732727927, 'sectors': 0.002945340732727927, 'infusion': 0.002945340732727927, 'sound': 0.002945340732727927, 'understanding': 0.002945340732727927, 'programming': 0.002945340732727927, 'want': 0.002945340732727927, 'known': 0.002945340732727927, 'lead': 0.002945340732727927, 'high': 0.002945340732727927, 'performing': 0.002945340732727927, 'teams': 0.002945340732727927, 'setting': 0.002945340732727927, 'clear': 0.002945340732727927}"
+7984ca92d9026b97,87c0791302cc9c78,6faf90bf39c91b9d,e7bc31ec38b174ef,8,Modern Technology Solutions,Modern Technology Solutions,Modern Technology Solutions,/q-Modern-Technology-Solutions-l-los-angeles-jobs.html,El Segundo,US,90245.0,El Segundo,Sr. Program Manager,ba928c474f54bec8,3M6ckAUefkZnPutjdyKl2076gY71_eKuyWKUhwksfqNKbA-yOnjS1WcvKfUjJWU1,"Overview:
+
+Modern Technology Solutions, Inc. (MTSI) is searching for a Sr. Program Manager to join our team. You will lead a diverse technical team providing highest-quality R&D solutions and services to the Department of Defense, across a spectrum of advanced and emerging technologies.
+
+
+
+
+At MTSI, our more than 1,300 co-owners recognize the high demand for specialized professionals within our industry and that you have many options to choose. As an employee owned company were culture matters, we believe that by investing in our people we are investing in our company’s future!
+
+MTSI’s core capabilities are Systems Engineering and Integration, Modeling and Simulation, Test and Evaluation, Acquisition and Program Support, and Mission Assurance services. Our expertise includes ballistic missile defense, air defense, air vehicle survivability, unmanned aircraft, flight test operations, intelligence support, and cyber/space/homeland defense.
+
+For additional company information, please visit: www.mtsi-va.com
+
+Responsibilities:
+
+
+As a Sr. Program Manager with MTSI you will lead a team of industry partners and technical subject matter experts in delivering engineering, research, development, test, evaluation and acquisition solutions across DoD and IC programs. You will develop and maintain partnerships with MTSI stakeholders and partners.
+
+Qualifications:
+
+15+ years of relevant DoD work experience in systems engineering and acquisition management
+
+10+ years experience leading increasingly complex engineering and R&D programs
+
+History of highest-quality deliverables in a complex delivery model supporting multiple customers and stakeholders
+
+Leadership experience in communicating on complex technical subject matter with DoD and other US Government senior leadership
+
+Strong technical background in one or more advanced capability domains, such as Space Systems, AI/ML, Autonomy, Cybersecurity, Hypersonics, Microelectronics, Networked C3, Space, and 5G technology
+
+Program Management/PMP certification (e.g. PMI, DAWIA, DAU) and strong background in developing/updating PMPs and related program CDRLs
+
+Desired Requirements:
+
+Experience leading technical collaboration with DoD and Service S&T centers, National Laboratories, and FFRDC and UARC organizations
+
+Strong familiarity and relationships across non-DoD and commercial technology providers in key modernization priority areas
+
+Knowledge of SMC and Space Force technology modernization processes
+
+Recent DoD Special Access Programs experience
+
+Education Requirements:
+
+Master’s Degree, preferably in engineering, physics, mathematics, or computer science
+
+Clearance Requirements:
+
+TS/SCI with previous SAP experience.
+
+Please Note: U.S. Citizenship is required for most MTSI positions.
+
+#mtsi","{'experience': 0.022276783819926732, 'subject': 0.01131967989068688, 'background': 0.01131967989068688, 'modernization': 0.01131967989068688, 'complex': 0.011138391909963366, 'acquisition': 0.009257968724731261, 'stakeholders': 0.009041786024910676, 'program': 0.008828773306494017, 'technical': 0.008828773306494017, 'requirements': 0.0077215511112990595, 'overview': 0.007606882587365758, 'modern': 0.007606882587365758, 'inc': 0.007606882587365758, 'searching': 0.007606882587365758, 'join': 0.007606882587365758, 'diverse': 0.007606882587365758, 'providing': 0.007606882587365758, 'department': 0.007606882587365758, 'spectrum': 0.007606882587365758, 'emerging': 0.007606882587365758, 'technologies': 0.007606882587365758, 'coowners': 0.007606882587365758, 'recognize': 0.007606882587365758, 'high': 0.007606882587365758, 'demand': 0.007606882587365758, 'specialized': 0.007606882587365758, 'professionals': 0.007606882587365758, 'within': 0.007606882587365758, 'many': 0.007606882587365758, 'options': 0.007606882587365758, 'choose': 0.007606882587365758, 'employee': 0.007606882587365758, 'owned': 0.007606882587365758, 'culture': 0.007606882587365758, 'matters': 0.007606882587365758, 'believe': 0.007606882587365758, 'people': 0.007606882587365758, 'future': 0.007606882587365758, 'core': 0.007606882587365758, 'capabilities': 0.007606882587365758, 'integration': 0.007606882587365758, 'modeling': 0.007606882587365758, 'simulation': 0.007606882587365758, 'mission': 0.007606882587365758, 'assurance': 0.007606882587365758, 'expertise': 0.007606882587365758, 'includes': 0.007606882587365758, 'ballistic': 0.007606882587365758, 'missile': 0.007606882587365758, 'vehicle': 0.007606882587365758, 'survivability': 0.007606882587365758, 'unmanned': 0.007606882587365758, 'aircraft': 0.007606882587365758, 'flight': 0.007606882587365758, 'operations': 0.007606882587365758, 'intelligence': 0.007606882587365758, 'cyberspacehomeland': 0.007606882587365758, 'additional': 0.007606882587365758, 'information': 0.007606882587365758, 'visit': 0.007606882587365758, 'wwwmtsivacom': 0.007606882587365758, 'responsibilities': 0.007606882587365758, 'experts': 0.007606882587365758, 'delivering': 0.007606882587365758, 'research': 0.007606882587365758, 'development': 0.007606882587365758, 'ic': 0.007606882587365758, 'develop': 0.007606882587365758, 'maintain': 0.007606882587365758, 'partnerships': 0.007606882587365758, 'qualifications': 0.007606882587365758, 'relevant': 0.007606882587365758, 'work': 0.007606882587365758, 'management': 0.007606882587365758, 'increasingly': 0.007606882587365758, 'history': 0.007606882587365758, 'deliverables': 0.007606882587365758, 'delivery': 0.007606882587365758, 'model': 0.007606882587365758, 'supporting': 0.007606882587365758, 'multiple': 0.007606882587365758, 'customers': 0.007606882587365758, 'communicating': 0.007606882587365758, 'government': 0.007606882587365758, 'senior': 0.007606882587365758, 'one': 0.007606882587365758, 'capability': 0.007606882587365758, 'domains': 0.007606882587365758, 'aiml': 0.007606882587365758, 'autonomy': 0.007606882587365758, 'cybersecurity': 0.007606882587365758, 'hypersonics': 0.007606882587365758, 'microelectronics': 0.007606882587365758, 'networked': 0.007606882587365758, 'managementpmp': 0.007606882587365758, 'certification': 0.007606882587365758, 'eg': 0.007606882587365758, 'pmi': 0.007606882587365758, 'dawia': 0.007606882587365758, 'dau': 0.007606882587365758}"
+91622ad9fc120b32,50a34c68d3f34f44,166c8b7f35523033,596e92bbfc751c9c,9,Sony Pictures Entertainment Inc.,Sony Pictures Entertainment,Sony Pictures Entertainment,/q-Sony-Pictures-Entertainment-l-los-angeles-jobs.html,Culver City,US,,Culver City,Director,239cc7311b1aaec2,PWfcGNFA7tgIDxGVBcVa2CpOnQ61wW2vs_GcfRlDl3bE6sV57wQU556_d0Wz_qoJ,"ABOUT FUNIMATION
+
+If it’s anime, it’s Funimation.
+
+As the market leader in anime, we proudly deliver incredible fan experiences across television, feature films, events, collectibles, and the Funimation App.
+
+Headquartered in the US and connected by our global network, we’re an anime-obsessed crew of media, tech, gaming and entertainment experts. As one of 400+ team members serving more than 49 countries and 10 languages, you’ll play a key role in a worldwide community where fans and their passion will always have a place to belong.
+
+Funimation is an independently-operated joint venture between US-based Sony Pictures Entertainment, and Japan’s Aniplex, a subsidiary of Sony Music Entertainment (Japan) Inc. Visit 
+funimation.com
+ and follow us on 
+Facebook
+, 
+Twitter
+, and 
+Instagram
+.
+
+THE ROLE
+
+We are looking for an experienced Director, Data Engineering who is passionate about architecting data platforms and building out a high-performance engineering team to join the Center for Data and Insights (CDI). This position will report to the VP, BI and Analytics and will play a key part in developing Funimation’s data analytics 2.0 platform and data personalization services. Working in an AWS ecosystem, this role will mentor the data engineers and will work with BI and Analytics leads to standardize technologies and processes across data collection, governance, storage, orchestration and compute to ensure consistency and reliability of data and insights. The right person for this role will have a service-oriented view towards the growing data needs of the organization while future-proofing the tech stack in the background.
+
+Responsibilities:
+
+Lead, manage, and inspire data engineering onsite and offshore teams by creating and delivering scalable data products and services to support various marketing, product, business operations and business intelligence use cases.
+
+Project manage data engineers dedicated to the CDI as well as platform data instrumentation engineers in the cross-functional teams.
+
+Develop scalable resource plans for migrating from Funimation Analytics Platform 1.0 to the new architecture with near real time events, machine learning pipelines using our customer data platform (mParticle) and purpose build pipelines and DBs to activate systems of intelligence.
+
+Work closely with product managers to make application data available for product features for platform personalizations.
+
+Uphold, introduce, and refine data quality standards, KPI certification methods, and engineering best practices.
+
+Challenge existing data structures and compute processes.
+
+Constantly strive to improve engineering workflows and efficiency, and heavily utilize automation whenever applicable.
+
+Optimize data pipelines for performance, reliability, and scalability.
+
+Partner with DevSecOps to optimize cloud infrastructure performance and scalability.
+
+Roll up your sleeves and be directly involved in solving challenging technical problems.
+
+Manage business-critical systems, set and facilitate departmental goals and contribute to core product strategy through data and software architecture excellence
+
+Mentor, hire and develop high-performing full-stack data and software engineers.
+
+Deliver projects on time and within budget.
+
+Requirements:
+
+8+ years of experience in data engineering and/ or software development.
+
+3+ years managing data engineering and analytics teams.
+
+Experience with and understanding of event data collection tools like Snowplow, Segment, Google Tag Manager, Tealium, and mParticle, etc.
+
+Full lifecycle experience implementing compute and orchestration tools like Databricks, Airflow, Talend etc.
+
+Experience with streaming OLAP engines like Druid, ClickHouse, etc.
+
+Experience with AWS services like EMR Spark, Redshift, Kinesis, Lambda, Glue, Athena, etc.
+
+Working knowledge of BI tools such as Tableau, Looker.
+
+Experience building multi-touch attribution platforms using integrations with walled gardens, and digital platforms.
+
+Experience building AI/ML personalization products.
+
+Experience with real-time data systems.
+
+Experience with Customer Data Platforms (CDPs) and Data Management Platforms (DMPs).
+
+Experience with HIPAA, PCI, or other high-security environments.
+
+Experience working with large data sets (Terabytes of data/ billions of records).
+
+Ability to work effectively and positively with others: You have excellent interpersonal skills. You’re a good listener. You place the success of the company ahead of any particular idea.
+
+Proven ability to work across a matrixed organization
+
+Highly articulate and an excellent communicator, with strong influencing skills and the ability to communicate well with peers and senior executives, locally and in different regions
+
+BS in Computer Science, Information Systems, or a related field.
+
+Must have legal right to work in the U.S.
+
+Funimation offers competitive compensation along with a comprehensive benefits package to include health, dental, vision, life, short & long-term disability, 401(k) with a generous company match, ongoing employee development.
+Sony Pictures Entertainment is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, national origin, disability, veteran status, age, sexual orientation, gender identity, or other protected characteristics.","{'experience': 0.010936617347165492, 'work': 0.005326406423392433, 'market': 0.005143451615933945, 'leader': 0.005143451615933945, 'proudly': 0.005143451615933945, 'incredible': 0.005143451615933945, 'fan': 0.005143451615933945, 'experiences': 0.005143451615933945, 'television': 0.005143451615933945, 'feature': 0.005143451615933945, 'films': 0.005143451615933945, 'collectibles': 0.005143451615933945, 'app': 0.005143451615933945, 'headquartered': 0.005143451615933945, 'connected': 0.005143451615933945, 'global': 0.005143451615933945, 'network': 0.005143451615933945, 'animeobsessed': 0.005143451615933945, 'crew': 0.005143451615933945, 'media': 0.005143451615933945, 'gaming': 0.005143451615933945, 'experts': 0.005143451615933945, 'one': 0.005143451615933945, 'members': 0.005143451615933945, 'serving': 0.005143451615933945, 'countries': 0.005143451615933945, 'languages': 0.005143451615933945, 'worldwide': 0.005143451615933945, 'community': 0.005143451615933945, 'fans': 0.005143451615933945, 'passion': 0.005143451615933945, 'always': 0.005143451615933945, 'belong': 0.005143451615933945, 'independentlyoperated': 0.005143451615933945, 'joint': 0.005143451615933945, 'venture': 0.005143451615933945, 'usbased': 0.005143451615933945, 'aniplex': 0.005143451615933945, 'subsidiary': 0.005143451615933945, 'music': 0.005143451615933945, 'japan': 0.005143451615933945, 'inc': 0.005143451615933945, 'visit': 0.005143451615933945, 'funimationcom': 0.005143451615933945, 'follow': 0.005143451615933945, 'facebook': 0.005143451615933945, 'twitter': 0.005143451615933945, 'instagram': 0.005143451615933945, 'looking': 0.005143451615933945, 'experienced': 0.005143451615933945, 'director': 0.005143451615933945, 'passionate': 0.005143451615933945, 'architecting': 0.005143451615933945, 'highperformance': 0.005143451615933945, 'join': 0.005143451615933945, 'center': 0.005143451615933945, 'position': 0.005143451615933945, 'report': 0.005143451615933945, 'vp': 0.005143451615933945, 'part': 0.005143451615933945, 'developing': 0.005143451615933945, 'ecosystem': 0.005143451615933945, 'leads': 0.005143451615933945, 'standardize': 0.005143451615933945, 'technologies': 0.005143451615933945, 'governance': 0.005143451615933945, 'storage': 0.005143451615933945, 'ensure': 0.005143451615933945, 'consistency': 0.005143451615933945, 'person': 0.005143451615933945, 'serviceoriented': 0.005143451615933945, 'view': 0.005143451615933945, 'towards': 0.005143451615933945, 'growing': 0.005143451615933945, 'needs': 0.005143451615933945, 'futureproofing': 0.005143451615933945, 'stack': 0.005143451615933945, 'background': 0.005143451615933945, 'responsibilities': 0.005143451615933945, 'lead': 0.005143451615933945, 'inspire': 0.005143451615933945, 'onsite': 0.005143451615933945, 'offshore': 0.005143451615933945, 'creating': 0.005143451615933945, 'delivering': 0.005143451615933945, 'support': 0.005143451615933945, 'various': 0.005143451615933945, 'marketing': 0.005143451615933945, 'operations': 0.005143451615933945, 'use': 0.005143451615933945, 'cases': 0.005143451615933945, 'project': 0.005143451615933945, 'dedicated': 0.005143451615933945, 'instrumentation': 0.005143451615933945, 'crossfunctional': 0.005143451615933945, 'resource': 0.005143451615933945, 'plans': 0.005143451615933945, 'migrating': 0.005143451615933945, 'new': 0.005143451615933945, 'near': 0.005143451615933945}"
+41c6bfc532f799da,df7a4d6c69261d7d,098009e0950964ff,a4e4e2eaf26690c9,10,Accenture,Accenture,Accenture,/q-Accenture-l-los-angeles-jobs.html,Los Angeles,US,,Los Angeles,Google Cloud (GCP) Solution Architect,d05a4fe50c5af0a8,hpDeP50szArAy57edipA-uysqBnXFYAjtRbVGtJvo8OvKaL5V_pCAoWWvQAZF1o1,"We are:
+
+A leading partner to the world’s major cloud providers, including AWS, Azure, and Google. The formation of Accenture Cloud First, with a $3 billion investment over three years, demonstrates our commitment to deliver greater value to our clients when they need it most and offers huge growth opportunities for you!
+
+
+
+Our Cloud First group of more than 70,000 cloud professionals delivers a full stack of integrated cloud capabilities across data, edge, integrated infrastructure and applications, deep ecosystem skills, culture of change along with a deep industry expertise to shape, move, build and operate our clients’ businesses in the cloud. To accelerate our customers transformation leveraging cloud, we combine world-class learning and talent development expertise; deep experience in cloud change management; and cloud-ready operating models with a commitment to responsible business by design — with security, data privacy, responsible use of artificial intelligence, sustainability and ethics and compliance built into the fundamental changes Accenture helps companies achieve.
+
+
+
+We are excited about the opportunities in the Cloud – and hope you are too! Learn more about why Accenture’s Google Cloud Business Group was named the 2019 Industry Solutions Partner of the Year
+
+
+
+You are:
+
+The Google Cloud Platform (GCP) Solution Architect is responsible for design, delivery, and implementation of Google Cloud Platform (GCP) infrastructure and solutions. You will work with cloud partners and other internal groups to evaluate supporting new technologies and industry specific use cases based on client needs. Using Google Cloud Platform public cloud technologies, you will define and implement state-of-the-art, scalable, high performance solutions (i.e. AI/ML, IoT, advanced analytics, open source, enterprise collaboration, microservices, serverless) that meet the need of today’s corporate and emerging digital applications.
+
+
+
+The work:
+
+
+Lead cloud solution and scoping to generate estimates and approaches for proposals and SOWs for customers.
+Through a formal sales process, work with the Sales team to identify and qualify Google Cloud Platform (GCP) opportunities.
+Lead the discussions and early analysis of the cloud concepts as it relates to Accenture’s Journey to Cloud methodology so that clear use cases are developed and prioritized as well as transitioning these concepts from ideas to proof-of-concepts with the full support of the appropriate teams.
+
+- Assess the full technology stack of services required including PaaS (Platform as-a-service), IaaS (Infrastructure as-a-service), SaaS (software as-a-service), operations, management and automation.
+
+
+Conduct full technical discovery, identifying pain points, business and technical requirements, “as is” and “to be” scenarios.
+Compare solution alternatives across both technical and business parameters which support the define cost and service requirements.
+
+For now, all Accenture business travel, international and domestic, is currently restricted to client-essential sales/delivery activity only.
+
+Please note: The safety and well-being of our people continues to be the top priority, and our decisions around travel are informed by government COVID-19 response directives, recommendations from leading health authorities and guidance from a number of infectious disease experts.
+
+
+
+
+Minimum of 7 years of technical solutions implementation, including experience with the following: architecture design, evaluation, and investigation in a cloud environment
+
+Minimum of 3 years hands-on application architecture focus where you engaged with clients, systems analysts, technical resources, developers and testers to develop scalable and resilient software systems that leverage modern software stack and DevOps practices. Keep as is
+
+Minimum of 3 years of Client Management and/or Project Management experience
+
+Minimum of 2 years of experience in Google Cloud Platform (GCP).
+
+Minimum of 1 years of experience developing applications using containers and Kubernetes, preferably on GCP.
+
+Bachelor's degree or equivalent (minimum 12 years) work experience. (If Associate Degree, must have minimum 6 years work experience).
+
+Growth Opportunities
+
+You will always be learning in this role through:
+
+On the job learning: opportunity to be immersed in the design and implementation of human-centric solutions to help solve client’s largest and most complex challenges, powered by the latest Google technologies and industry’s best practices such event-driven architectures and domain driven design. Collaborate on internal assets and contribute to open source community projects.
+
+Being part of Accenture Google Business Group’s close-knit, vibrant community; client teams pushing the boundaries of new business capabilities and emerging Google technologies sharing their experiences and lessons learned with each other. Opportunity to learn and work with Accenture’s certified Google Fellows and certified Google Cloud practitioners.
+
+As required by the Colorado Equal Pay Transparency Act, Accenture provides a reasonable range of minimum compensation for roles that may be hired in Colorado. Actual compensation is influenced by a wide array of factors including but not limited to skill set, level of experience, and specific office location. For the state of Colorado 
+only
+, the range of starting pay for this role is
+
+$99,900-$168,499 
+and 
+information on benefits offered is here.
+
+What We Believe
+
+We have an unwavering commitment to diversity with the aim that every one of our people has a full sense of belonging within our organization. As a business imperative, every person at Accenture has the responsibility to create and sustain an inclusive environment.
+
+Inclusion and diversity are fundamental to our culture and core values. Our rich diversity makes us more innovative and more creative, which helps us better serve our clients and our communities. 
+Read more here
+
+Equal Employment Opportunity Statement
+
+Accenture is an Equal Opportunity Employer. We believe that no one should be discriminated against because of their differences, such as age, disability, ethnicity, gender, gender identity and expression, religion or sexual orientation.
+
+All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.
+
+Accenture is committed to providing veteran employment opportunities to our service men and women.
+
+For details, view a copy of the 
+Accenture Equal Opportunity and Affirmative Action Policy Statement
+.
+
+Requesting An Accommodation
+
+Accenture is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture and require accommodation to perform the essential functions of your role, you will be asked to participate in our reasonable accommodation process. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired.
+
+If you would like to be considered for employment opportunities with Accenture and have accommodation needs for a disability or religious observance, please call us toll free at 
+1 (877) 889-9009
+, send us an 
+email
+ or speak with your recruiter.
+
+Other Employment Statements
+
+Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.
+
+Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.
+
+Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.
+
+The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information.","{'experience': 0.007374317356628562, 'job': 0.006662313106639102, 'work': 0.006452527687049992, 'equal': 0.005509446940766982, 'authorization': 0.0036169647930201104, 'major': 0.0031074637624778517, 'providers': 0.0031074637624778517, 'aws': 0.0031074637624778517, 'azure': 0.0031074637624778517, 'formation': 0.0031074637624778517, 'billion': 0.0031074637624778517, 'investment': 0.0031074637624778517, 'three': 0.0031074637624778517, 'demonstrates': 0.0031074637624778517, 'deliver': 0.0031074637624778517, 'greater': 0.0031074637624778517, 'value': 0.0031074637624778517, 'offers': 0.0031074637624778517, 'huge': 0.0031074637624778517, 'professionals': 0.0031074637624778517, 'delivers': 0.0031074637624778517, 'edge': 0.0031074637624778517, 'ecosystem': 0.0031074637624778517, 'skills': 0.0031074637624778517, 'along': 0.0031074637624778517, 'shape': 0.0031074637624778517, 'move': 0.0031074637624778517, 'build': 0.0031074637624778517, 'operate': 0.0031074637624778517, 'businesses': 0.0031074637624778517, 'accelerate': 0.0031074637624778517, 'transformation': 0.0031074637624778517, 'leveraging': 0.0031074637624778517, 'combine': 0.0031074637624778517, 'worldclass': 0.0031074637624778517, 'talent': 0.0031074637624778517, 'development': 0.0031074637624778517, 'cloudready': 0.0031074637624778517, 'operating': 0.0031074637624778517, 'models': 0.0031074637624778517, 'security': 0.0031074637624778517, 'privacy': 0.0031074637624778517, 'artificial': 0.0031074637624778517, 'intelligence': 0.0031074637624778517, 'sustainability': 0.0031074637624778517, 'ethics': 0.0031074637624778517, 'compliance': 0.0031074637624778517, 'built': 0.0031074637624778517, 'changes': 0.0031074637624778517, 'companies': 0.0031074637624778517, 'achieve': 0.0031074637624778517, 'excited': 0.0031074637624778517, 'hope': 0.0031074637624778517, 'named': 0.0031074637624778517, 'year': 0.0031074637624778517, 'architect': 0.0031074637624778517, 'delivery': 0.0031074637624778517, 'partners': 0.0031074637624778517, 'groups': 0.0031074637624778517, 'evaluate': 0.0031074637624778517, 'supporting': 0.0031074637624778517, 'based': 0.0031074637624778517, 'public': 0.0031074637624778517, 'implement': 0.0031074637624778517, 'stateoftheart': 0.0031074637624778517, 'high': 0.0031074637624778517, 'performance': 0.0031074637624778517, 'ie': 0.0031074637624778517, 'aiml': 0.0031074637624778517, 'iot': 0.0031074637624778517, 'advanced': 0.0031074637624778517, 'analytics': 0.0031074637624778517, 'enterprise': 0.0031074637624778517, 'collaboration': 0.0031074637624778517, 'microservices': 0.0031074637624778517, 'serverless': 0.0031074637624778517, 'meet': 0.0031074637624778517, 'corporate': 0.0031074637624778517, 'digital': 0.0031074637624778517, 'scoping': 0.0031074637624778517, 'generate': 0.0031074637624778517, 'estimates': 0.0031074637624778517, 'approaches': 0.0031074637624778517, 'proposals': 0.0031074637624778517, 'sows': 0.0031074637624778517, 'team': 0.0031074637624778517, 'identify': 0.0031074637624778517, 'qualify': 0.0031074637624778517, 'discussions': 0.0031074637624778517, 'early': 0.0031074637624778517, 'analysis': 0.0031074637624778517, 'relates': 0.0031074637624778517, 'journey': 0.0031074637624778517, 'methodology': 0.0031074637624778517, 'clear': 0.0031074637624778517, 'developed': 0.0031074637624778517, 'prioritized': 0.0031074637624778517, 'well': 0.0031074637624778517, 'transitioning': 0.0031074637624778517, 'ideas': 0.0031074637624778517}"
+83c406f3ddade2e0,b497a29c95fd5fb9,f1b3434087ee4f26,24deae60a689525a,11,Indeed,AArete,AArete,/q-AArete-l-los-angeles-jobs.html,Los Angeles,US,90067.0,Los Angeles,Director - Data Science,d05a4fe50c5af0a8,noAd-xazZKSJ21RFyUb4oFK6gOQfL7rcuvDqZydcafH-qGt6Ze7HoRxyXN21iTHi,"Director of Data Science, Product Development
+AArete is looking for a Director
+* of Data Science 
+*to help conceptualize and build a solutions platform to support claims accuracy for our healthcare clients. This team
+* is at the forefront of innovation and development within the company, driving the creation of 
+*a 
+novel and scalable 
+product
+* that can benefit our clients.*
+As a Director of Data Science, you will act as a translation layer between business and analytic modeling teams, and work with the technical implementation team to execute the approach. In this role, you will have the opportunity to act as the visionary for AArete to drive the creation of a world class product to help reduce costs for our healthcare payers to ensure claims is paid accurately. This individual will provide leadership and coaching to the team members which will include data scientists, technologists and other healthcare experts while empowering them to do their best work, which will thereby improve our product and thereby client outcomes. You will have an opportunity to foster a culture of collaboration, trust, and technical expertise while collaborating with our leadership as a subject matter expert in order to build a high-quality product using AI and machine learning and drive the product strategy to deliver AArete’s mission.
+W*
+hy 
+*AArete?
+ 
+AArete’s mission is to increase client profitability while improving the capabilities of our clients’ people. We believe that any organization can succeed by enriching and empowering its people. Our own people empower our vision to be a premier global management consulting firm that Fortune 500 and leading organizations trust.
+Primary Responsibilities
+*
+Build an Artificial intelligence differentiated framework/Architecture on the cloud that can be further developed based on market requirements to supports AArete’s vison for the Payment Accuracy team
+Provide Thought Leadership to client teams as a trusted advisor by understanding the clients’ business problems to develop advanced predictive models and exploratory data analyses using AI & Machine Learning that will unveil key data insights leveraging both structured and unstructured data
+Collaborate closely with AArete’s internal Payment Accuracy team to develop a strategic roadmap and handle tactical planning, as well as lead the data science portion of product development
+Build a product road map. Advise project teams on areas where the product can support project priorities, project estimation, external costs, resource requirements, timelines, communication plan, testing requirements implementation and risk mitigation for roadmap projects in alignment with the product roadmap (Key priority is to develop a product that can be applied to a client project)
+Set direction for the Technical Leads, Application/Data/Tool Architects, Developers, Unit/User Acceptance Testing Teams, Quality, Product/Program/Project Managers, internal Business Delivery Teams Data Scientists, and Product Engineers to determine what data insights need to be derived and the problem statement that should guide the analysis in order to solve business problems and develop new products
+Support key initiatives for clients such as new solutions for insight generation, data enrichment and streamlining analytics processes
+Collaborate with Client Advisory Board to understand emerging business problems and develops new products to address those issues
+Lead team of data scientists in collaboration with the business and technology teams in the innovation, development, testing and rollout of innovative healthcare products
+Work with Managing Directors and Directors as a subject matter expert (SME) in pre-sales, sales and business development pursuits related to AArete’s product capability and differentiation
+Inspire analytic R&D within the CODE team with knowledge of a variety of analytics methods and approaches not limited to machine learning, artificial intelligence, statistics, and analytic principles with agnostic approach to tools used
+Enforce the need to build quality into AArete’s products exemplified by minimal false positive rate by providing timely and actionable feedback synthesized from product teams feedback
+Active member in relation to market thought leadership regarding AArete PI product
+Requirements
+: 
+Proven experience developing, managing and scaling data science teams and capabilities
+7+ years professional experience building statistical, artificial intelligence and machine learning models:
+Supervised, unsupervised and reinforcement learning
+Logistic Regression, K-Means, Decision Tree, Random Forest, etc.
+Expert level knowledge in a variety of languages commonly used in data analytics (Python, R, Java, Scala, etc.)
+Familiarity and experience working with Big Data platforms such as Hadoop, Domo, Vertica, etc.
+Understanding of the nuances of how industry and solution teams work in a professional services company and experience managing such environments:
+Experience collaborating with client facing business focused teams and technical shared services teams to identify and build minimum viable solutions/products for a go-to-market push
+Experience working in a cloud environment and practical knowledge of working with AI & ML platforms such as Azure ML Studio, AWS SageMaker, etc.
+Experience with healthcare data, including claims and encounter data, and how it is collected and utilized across the industry (payer and provider)
+Experience presenting directly to external clients related to business development/sales, as well as delivery of results while working in a fast-paced environment
+Strong ability to communicate complex analyses and concepts to non-technical audiences within and outside of the organization
+Experience acting as a SME in client facing meetings to present business cases resulting from analytics models
+Strong desire to mentor teams and provide opportunities for career development
+Clear demonstration of thought leadership on how AI solves business problems
+Curiosity piqued? Learn more about us!
+Forbes 2021 list of Best Management Consulting Firms
+Vault’s Top 50 Firms to Work For
+Crain's Chicago Business Fast 50 for a 3rd year
+Inc 5000’s Fastest Growing Firms list for the 4th consecutive year
+Consulting Magazine's Fastest Growing Firms for the 4th consecutive year
+AArete acquired DsquaredI in September 2020
+AArete acquired Third (i) Technologies in 2019
+Job Type: Full-time","{'project': 0.009636949900597453, 'experience': 0.006840268229209986, 'requirements': 0.005618130901149404, 'subject': 0.0048184749502987265, 'business': 0.0042818736899293145, 'work': 0.00380014901622777, 'data': 0.0033985377911153816, 'looking': 0.003169267278394917, 'conceptualize': 0.003169267278394917, 'platform': 0.003169267278394917, 'forefront': 0.003169267278394917, 'driving': 0.003169267278394917, 'novel': 0.003169267278394917, 'scalable': 0.003169267278394917, 'benefit': 0.003169267278394917, 'translation': 0.003169267278394917, 'layer': 0.003169267278394917, 'modeling': 0.003169267278394917, 'execute': 0.003169267278394917, 'role': 0.003169267278394917, 'visionary': 0.003169267278394917, 'world': 0.003169267278394917, 'class': 0.003169267278394917, 'reduce': 0.003169267278394917, 'payers': 0.003169267278394917, 'ensure': 0.003169267278394917, 'paid': 0.003169267278394917, 'accurately': 0.003169267278394917, 'individual': 0.003169267278394917, 'coaching': 0.003169267278394917, 'members': 0.003169267278394917, 'include': 0.003169267278394917, 'technologists': 0.003169267278394917, 'experts': 0.003169267278394917, 'improve': 0.003169267278394917, 'outcomes': 0.003169267278394917, 'foster': 0.003169267278394917, 'culture': 0.003169267278394917, 'expertise': 0.003169267278394917, 'highquality': 0.003169267278394917, 'strategy': 0.003169267278394917, 'deliver': 0.003169267278394917, 'w': 0.003169267278394917, 'hy': 0.003169267278394917, 'increase': 0.003169267278394917, 'profitability': 0.003169267278394917, 'improving': 0.003169267278394917, 'believe': 0.003169267278394917, 'succeed': 0.003169267278394917, 'enriching': 0.003169267278394917, 'empower': 0.003169267278394917, 'vision': 0.003169267278394917, 'premier': 0.003169267278394917, 'global': 0.003169267278394917, 'firm': 0.003169267278394917, 'fortune': 0.003169267278394917, 'leading': 0.003169267278394917, 'organizations': 0.003169267278394917, 'primary': 0.003169267278394917, 'responsibilities': 0.003169267278394917, 'differentiated': 0.003169267278394917, 'frameworkarchitecture': 0.003169267278394917, 'developed': 0.003169267278394917, 'based': 0.003169267278394917, 'supports': 0.003169267278394917, 'vison': 0.003169267278394917, 'trusted': 0.003169267278394917, 'advisor': 0.003169267278394917, 'advanced': 0.003169267278394917, 'predictive': 0.003169267278394917, 'exploratory': 0.003169267278394917, 'unveil': 0.003169267278394917, 'leveraging': 0.003169267278394917, 'structured': 0.003169267278394917, 'unstructured': 0.003169267278394917, 'closely': 0.003169267278394917, 'strategic': 0.003169267278394917, 'handle': 0.003169267278394917, 'tactical': 0.003169267278394917, 'planning': 0.003169267278394917, 'portion': 0.003169267278394917, 'road': 0.003169267278394917, 'map': 0.003169267278394917, 'advise': 0.003169267278394917, 'areas': 0.003169267278394917, 'priorities': 0.003169267278394917, 'estimation': 0.003169267278394917, 'resource': 0.003169267278394917, 'timelines': 0.003169267278394917, 'communication': 0.003169267278394917, 'plan': 0.003169267278394917, 'risk': 0.003169267278394917, 'mitigation': 0.003169267278394917, 'projects': 0.003169267278394917, 'alignment': 0.003169267278394917, 'priority': 0.003169267278394917, 'applied': 0.003169267278394917, 'set': 0.003169267278394917, 'direction': 0.003169267278394917, 'leads': 0.003169267278394917}"
+959ab4645325fce0,e3a48f8a4a788271,1da7746948f8bb7d,734cb5a01ee60f80,12,Microsoft,Microsoft,Microsoft,/q-Microsoft-l-los-angeles-jobs.html,Los Angeles,US,,Los Angeles,Cloud Solution Architect - Data &amp; Analytics,d05a4fe50c5af0a8,VZ_wjdT_kZ9jhgNz9phN1UpdaaJpM0BR32kWHUV0Bvb9o-o8cxkYQgHGiC5L6ukO,"Microsoft is on a mission to empower every person and every organization on the planet to achieve more. Our culture is centered on embracing a growth mindset, a theme of inspiring excellence, and encouraging teams and leaders to bring their best each day. In doing so, we create life-changing innovations that impact billions of lives around the world. You can help us to achieve our mission.
+
+
+
+Microsoft aspires to help our customers achieve their own digital transformation, leveraging the power of Microsoft Cloud solutions and support offerings. To this end, Microsoft invests in a dedicated Customer Success team that will help Microsoft customers successfully realize their business outcomes.
+
+
+
+
+Azure is the most comprehensive, innovative and flexible cloud platform today and Microsoft is hiring professionals that will drive customer cloud adoption within the most important companies in the market.
+
+
+
+We are always learning. Insatiably curious. We lean into uncertainty, take risks, and learn quickly from our mistakes. We build on each other’s ideas because we are better together. We stand in awe of what humans dare to achieve and are motivated every day to empower others to do more and achieve more through our technology and innovation. Together we make a difference.
+
+
+
+To learn more about Microsoft’s mission, please visit: https://careers.microsoft.com/mission-culture
+
+
+
+Check out all of our products at: http://www.microsoft.com/en-us
+
+
+
+We are looking for a highly motivated and passionate Data Platform & Advanced Analytics/Artificial Intelligence Cloud Solution Architect to drive high priority customer initiatives on the Microsoft Azure Platform in collaboration with customers and the Microsoft field in Enterprise accounts segment of our business. This is a customer facing role, owning overall technical relationship between customer and Microsoft Data, Advanced Analytics and Artificial Intelligence Platform.
+
+
+
+You will own the Data Platform & Advanced Analytics technical customer engagements including architectural design sessions, specific implementation projects and/or MVPs. The ideal candidate will have experience in customer-facing roles and success leading deep technical architecture discussions with senior customer executives, Enterprise Architects, IT Management and Developers to drive Data Platform and Advanced Analytics solutions to productions.
+
+Responsibilities
+
+Key responsibilities include:
+
+Understand customers’ overall data estate, IT and business priorities and success measures to design implementation architectures and solutions.
+
+Apply technical knowledge to architect solutions that meet business and IT needs, create Data Platform, Analytics and AI roadmaps, and ensure long term technical viability of new deployments, infusing key analytics technologies where appropriate (e.g. SQL Server, Azure Synapse, Azure ML, Azure Cognitive Services, Azure Data Factory, Big Data, Data Lake, Azure Databricks, Power BI, etc.)
+
+Ensure that solution exhibits high levels of performance, security, scalability, maintainability, appropriate reusability and reliability upon deployment
+
+Develop deep relationships with key customer IT decision makers and relevant business decision makers (like AI or Analytics), who drive long-term cloud adoption within their company to enable them to be cloud advocates
+
+Be a Voice of Customer to share insights and best practices, connect with Engineering team to remove key blockers
+
+Assess the Customers' knowledge of Azure platform and overall cloud readiness to support customers through a structured learning plan and ensure its delivery through partners.
+
+Collaborate with other Cloud Solution Architects and MS stakeholders in developing complex end-to-end Enterprise solutions on Microsoft Cloud platforms.
+
+Maintain technical skills and knowledge, keeping up to date with market trends and competitive insights; collaborate and share with the technical community while educate customers on Azure platform
+
+Be an Azure Platform evangelist with customers, partners and external communities.
+
+Qualifications
+
+Required/Minimum Qualifications
+
+Bachelor's Degree in Computer Science, Information Technology, Engineering, or related field AND 6+ years’ experience in technology solutions, practice development, architecture, consulting, and/or cloud/infrastructure technologies
+
+OR Master's Degree in Computer Science, Information Technology, Engineering, or related field AND 4+ years’ experience in technology solutions, practice development, architecture, consulting, and/or cloud/infrastructure technologies
+
+OR equivalent experience.
+
+Additional / Preferred Qualifications
+
+ 5+ years of success in consultative/complex technical sales and deployment projects, architecture, design, implementation, and/or support of highly distributed applications required
+
+Relationship Building
+. Proven track record of building deep technical relationships with senior IT executives in large or highly strategic accounts. Experience in managing various stakeholder relationships to get consensus on solution/projects.
+ Required
+
+Good business acumen to quickly understand the customer’s industry and business to have relevant discussions with business decision makers.
+
+Problem Solving. 
+Ability to solve customer problems through cloud technologies 
+Required
+
+Collaboration and Communication. 
+Acknowledged for driving decisions collaboratively, resolving conflicts and ensuring follow through with exceptional verbal and written communication skills. Ability to orchestrate, lead, and influence virtual teams, ensuring successful implementation of customer projects. Presentation skills with a high degree of comfort with both large and small audiences (Senior Executives, IT management, Database administrators and Data Scientist) Required
+
+Technical
+
+Enterprise-scale technical experience with cloud and hybrid infrastructures, architecture designs, database migrations, and technology management. Required
+
+The technical aptitude and experience to learn new technologies and understand relevant cloud trend
+
+Competitive Landscape: Knowledge of cloud development platforms
+
+Partners: Understanding of partner ecosystems and the ability to leverage partner solutions to solve customer needs preferred
+
+Breadth of technical experience and knowledge, with depth / Subject Matter Expertise in two or more of the following Data Analytics and AI Platform Cloud solutions required
+
+SQL including OSS (postgres, MySQL etc), Azure SQL
+
+NoSQL Databases including OSS (Maria, Mongo etc), Cosmos DB
+
+Big Data including SQL DW, Snowflake, Big Query, Redshift
+
+Advanced Analytics including Azure Data Bricks, visualization tools as PowerBI, Tableau
+
+Data Governance
+
+Data Engineering
+
+Data Science
+
+Machine Learning including Azure ML, ML Server
+
+Artificial Intelligence including BOT framework, Cognitive Services, Cognitive Search
+
+Expertise in data estate workloads like HDInsight, Hadoop, Cloudera, Spark, Python
+
+Education
+
+Bachelor's degree in Computer Science, Information Technology, Engineer or related field preferred
+
+Certification in one or more of the following technologies preferred: Cloud, mobile, Database, Big Data, BI, Data Science, Machine Learning, Artificial Intelligence
+
+Experience
+
+Prior work experience in a Consulting/Architecture position within a software and/or services company such as Amazon, VMware, Google, IBM, Oracle desired
+
+Prior solution delivery experience in Analytic and AI specialized solution providers
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.","{'azure': 0.019902070713777323, 'experience': 0.009940106001106244, 'required': 0.007248874570492343, 'knowledge': 0.0056094610268235985, 'projects': 0.0055062848342776975, 'sql': 0.004832583046994896, 'qualifications': 0.004230256881574344, 'platform': 0.004168157179583742, 'microsoft': 0.004121154262858683, 'quickly': 0.00407473628707058, 'key': 0.0038828481529949283, 'business': 0.003326930891427621, 'person': 0.0032919331762229736, 'organization': 0.0032919331762229736, 'planet': 0.0032919331762229736, 'culture': 0.0032919331762229736, 'centered': 0.0032919331762229736, 'embracing': 0.0032919331762229736, 'growth': 0.0032919331762229736, 'mindset': 0.0032919331762229736, 'theme': 0.0032919331762229736, 'inspiring': 0.0032919331762229736, 'excellence': 0.0032919331762229736, 'encouraging': 0.0032919331762229736, 'leaders': 0.0032919331762229736, 'bring': 0.0032919331762229736, 'lifechanging': 0.0032919331762229736, 'innovations': 0.0032919331762229736, 'impact': 0.0032919331762229736, 'billions': 0.0032919331762229736, 'lives': 0.0032919331762229736, 'around': 0.0032919331762229736, 'world': 0.0032919331762229736, 'us': 0.0032919331762229736, 'aspires': 0.0032919331762229736, 'digital': 0.0032919331762229736, 'transformation': 0.0032919331762229736, 'leveraging': 0.0032919331762229736, 'offerings': 0.0032919331762229736, 'end': 0.0032919331762229736, 'invests': 0.0032919331762229736, 'dedicated': 0.0032919331762229736, 'successfully': 0.0032919331762229736, 'realize': 0.0032919331762229736, 'outcomes': 0.0032919331762229736, 'comprehensive': 0.0032919331762229736, 'innovative': 0.0032919331762229736, 'flexible': 0.0032919331762229736, 'today': 0.0032919331762229736, 'hiring': 0.0032919331762229736, 'professionals': 0.0032919331762229736, 'important': 0.0032919331762229736, 'companies': 0.0032919331762229736, 'always': 0.0032919331762229736, 'insatiably': 0.0032919331762229736, 'curious': 0.0032919331762229736, 'lean': 0.0032919331762229736, 'uncertainty': 0.0032919331762229736, 'take': 0.0032919331762229736, 'risks': 0.0032919331762229736, 'mistakes': 0.0032919331762229736, 'build': 0.0032919331762229736, 'ideas': 0.0032919331762229736, 'better': 0.0032919331762229736, 'stand': 0.0032919331762229736, 'awe': 0.0032919331762229736, 'humans': 0.0032919331762229736, 'dare': 0.0032919331762229736, 'others': 0.0032919331762229736, 'innovation': 0.0032919331762229736, 'make': 0.0032919331762229736, 'difference': 0.0032919331762229736, 'visit': 0.0032919331762229736, 'httpscareersmicrosoftcommissionculture': 0.0032919331762229736, 'check': 0.0032919331762229736, 'products': 0.0032919331762229736, 'httpwwwmicrosoftcomenus': 0.0032919331762229736, 'looking': 0.0032919331762229736, 'passionate': 0.0032919331762229736, 'analyticsartificial': 0.0032919331762229736, 'priority': 0.0032919331762229736, 'initiatives': 0.0032919331762229736, 'segment': 0.0032919331762229736, 'facing': 0.0032919331762229736, 'role': 0.0032919331762229736, 'owning': 0.0032919331762229736, 'engagements': 0.0032919331762229736, 'architectural': 0.0032919331762229736, 'sessions': 0.0032919331762229736, 'specific': 0.0032919331762229736, 'mvps': 0.0032919331762229736, 'ideal': 0.0032919331762229736, 'candidate': 0.0032919331762229736, 'customerfacing': 0.0032919331762229736, 'roles': 0.0032919331762229736, 'leading': 0.0032919331762229736, 'developers': 0.0032919331762229736, 'productions': 0.0032919331762229736, 'include': 0.0032919331762229736, 'priorities': 0.0032919331762229736}"
+4d59d20bb802bd8f,e1e4315338ab323a,53bc18ca45589c12,40599d15afe90e86,13,Indeed,MonoLets,MonoLets,/q-MonoLets-l-los-angeles-jobs.html,United States,US,,,Lead Location Algorithm Developer,e3da0a390617907b,E4fhWX_aAFqF37QMCtQEyoXu0O3q_u7jR-ad0LIkJdk,"*
+MonoLets, Inc.
+ is a full-stack provider of item-level asset identity and tracking technology. We enable this via disposable BLE digital labels at the cost of RFID tags, assembled within our proprietary low-power wireless mesh network architecture. Our system provides unmatched range, flexibility and cost-efficiency, and doesn't require expensive or proprietary infrastructure to collect, analyze and infer real-time data at scale. This finally makes it possible to cost-effectively access high-volume, high-velocity data at the item level on a global scale, and has applications in many different verticals, including real-time visibility into item location and/or temperature in logistics, retail, cold chain and pharmaceutical delivery. Our business model is data-as-a-service, using our low cost labels and mesh networks.
+Our technology was developed at UC Berkeley over the last 4 years leveraging a $2M DARPA grant. We have finished three paid proof-of-concept trials with Fortune 500 companies, and have a queue of several large customers in logistics and manufacturing signed up for pilots. Our recently closed seed financing will fund these pilots and system commercialization.
+We offer a comprehensive package of benefits, including flexible time off and flexible work location arrangements.
+*
+The role.
+Lead developer of indoor/outdoor/transport location algorithms designed for enterprise customers in logistics, manufacturing, cold chain and pharma. In this role, you will: 
+Participate in architectural design exploration working closely with the founding team
+Design and implement algorithms to provide the best indoor localization performance in the industry
+Develop verification methods and benchmark system performance
+Participate in design and implementation of necessary data processing pipelines to support developed algorithms
+Deploy, debug and test the localization system for commercial deployments with customers
+Establish the company’s development, verification and documentation processes as regards, algorithm software.
+Work closely with the founding team to develop the company’s localization capability and provide input into product design and roadmap
+San Francisco Bay Area location preferred
+Requirements for this role: 
+MS (Ph.D. preferred) in CS (AI/ML)+Math/Physics with 3+ yrs related experience
+Experience with C/C++, Python
+Experience in indoor localization algorithm design and implementation
+Experience with AI/ML model development, training and inference
+Experience with trilateration, triangulation, ToF, FTM, TDoA, AoA, AoD, or fingerprinting techniques is strongly preferred
+Job Type: Full-time
+Pay: Up to $160,000.00 per year
+Benefits:
+Dental insurance
+Flexible schedule
+Health insurance
+Life insurance
+Paid time off
+Relocation assistance
+Vision insurance
+Schedule:
+Monday to Friday
+Education:
+Master's (Required)
+Experience:
+Algorithm design: 3 years (Required)
+Work Location:
+Multiple locations
+Work Remotely:
+No","{'experience': 0.017949060857994612, 'localization': 0.011966040571996408, 'flexible': 0.008974530428997306, 'work': 0.007849643535365295, 'required': 0.007443335374585923, 'monolets': 0.006510023749902377, 'inc': 0.006510023749902377, 'fullstack': 0.006510023749902377, 'provider': 0.006510023749902377, 'itemlevel': 0.006510023749902377, 'asset': 0.006510023749902377, 'identity': 0.006510023749902377, 'tracking': 0.006510023749902377, 'enable': 0.006510023749902377, 'via': 0.006510023749902377, 'disposable': 0.006510023749902377, 'ble': 0.006510023749902377, 'digital': 0.006510023749902377, 'rfid': 0.006510023749902377, 'tags': 0.006510023749902377, 'assembled': 0.006510023749902377, 'within': 0.006510023749902377, 'lowpower': 0.006510023749902377, 'wireless': 0.006510023749902377, 'network': 0.006510023749902377, 'architecture': 0.006510023749902377, 'provides': 0.006510023749902377, 'unmatched': 0.006510023749902377, 'range': 0.006510023749902377, 'flexibility': 0.006510023749902377, 'costefficiency': 0.006510023749902377, 'doesnt': 0.006510023749902377, 'require': 0.006510023749902377, 'expensive': 0.006510023749902377, 'infrastructure': 0.006510023749902377, 'collect': 0.006510023749902377, 'analyze': 0.006510023749902377, 'infer': 0.006510023749902377, 'finally': 0.006510023749902377, 'makes': 0.006510023749902377, 'possible': 0.006510023749902377, 'costeffectively': 0.006510023749902377, 'access': 0.006510023749902377, 'highvolume': 0.006510023749902377, 'highvelocity': 0.006510023749902377, 'level': 0.006510023749902377, 'global': 0.006510023749902377, 'applications': 0.006510023749902377, 'many': 0.006510023749902377, 'different': 0.006510023749902377, 'verticals': 0.006510023749902377, 'visibility': 0.006510023749902377, 'andor': 0.006510023749902377, 'temperature': 0.006510023749902377, 'retail': 0.006510023749902377, 'pharmaceutical': 0.006510023749902377, 'delivery': 0.006510023749902377, 'business': 0.006510023749902377, 'dataasaservice': 0.006510023749902377, 'using': 0.006510023749902377, 'low': 0.006510023749902377, 'networks': 0.006510023749902377, 'uc': 0.006510023749902377, 'berkeley': 0.006510023749902377, 'last': 0.006510023749902377, 'leveraging': 0.006510023749902377, 'darpa': 0.006510023749902377, 'grant': 0.006510023749902377, 'finished': 0.006510023749902377, 'three': 0.006510023749902377, 'proofofconcept': 0.006510023749902377, 'trials': 0.006510023749902377, 'fortune': 0.006510023749902377, 'companies': 0.006510023749902377, 'queue': 0.006510023749902377, 'several': 0.006510023749902377, 'large': 0.006510023749902377, 'signed': 0.006510023749902377, 'recently': 0.006510023749902377, 'closed': 0.006510023749902377, 'seed': 0.006510023749902377, 'financing': 0.006510023749902377, 'fund': 0.006510023749902377, 'commercialization': 0.006510023749902377, 'offer': 0.006510023749902377, 'comprehensive': 0.006510023749902377, 'package': 0.006510023749902377, 'arrangements': 0.006510023749902377, 'lead': 0.006510023749902377, 'developer': 0.006510023749902377, 'indooroutdoortransport': 0.006510023749902377, 'designed': 0.006510023749902377, 'enterprise': 0.006510023749902377, 'pharma': 0.006510023749902377, 'architectural': 0.006510023749902377, 'exploration': 0.006510023749902377, 'working': 0.006510023749902377, 'implement': 0.006510023749902377, 'best': 0.006510023749902377, 'industry': 0.006510023749902377}"
+332c7d4a74d3423b,df7a4d6c69261d7d,098009e0950964ff,a4e4e2eaf26690c9,2,Accenture,Accenture,Accenture,/q-Accenture-l-los-angeles-jobs.html,Los Angeles,US,,Los Angeles,Technical Architect &amp; Delivery Lead - Azure + Data &amp; AI,d05a4fe50c5af0a8,JoUIBMKxP_A2R-57uTJs0Ww2gXv0XBHqj99U3g2ddttxvG3JXe-tS3aJB-H7Iddd,"We Are:
+
+Accenture’s Microsoft Business Group. Every day, we bring the Power of Three (Po3) Accenture/Microsoft/Avanade together to drive business outcomes for our clients. Imagine the future and bring it to life using design thinking, agile development methodologies, and new smart tech like Cloud, IoT, automation, and AI. We even built our own platform, myNav, myConcerto etc, that mixes the best parts of Accenture, Microsoft and Avanade to help companies transform and become digital leaders. Come join a team to help expand your career in the fastest growing Technology segment. As one of Accenture’s Largest Partners in IPS, #1 Global Cloud Elite and Platinum member of the Microsoft Partnership. Visit us to learn more about Accenture's Microsoft Business Group.
+
+You Are:
+
+You're in your element working with clients to solve complex business problems so they can do more. Harnessing the enterprise-wide potential of Microsoft technology. You will have the power of a decade’s long relationship with Microsoft behind you. Along with Accenture's broad industry experience and transformation skills & Avanade's specialization in the Microsoft ecosystem. Technology expertise You are the tip of the spear, fluent in Microsoft and extremely deep in multiple areas of technology delivery. Technology architecture is your passion and you are comfortable leading or working within a team of architects or senior technology leaders.
+
+The Work:
+
+
+You will work with client teams to become a trusted partner, supporting Microsoft products and solutions
+You will be defining cutting edge solutions for our clients and collaborating across internal teams to bring the best of Accenture, Avanade and Microsoft
+You will work in partnership with Microsoft’s architects in shaping how their products are adopted by our clients
+You will partner with Accenture industry teams to define their assets and offerings that run on top of Microsoft
+You will participate in large deal pursuits for specified Accenture Microsoft Business Group opportunities
+
+Practice builders strengthen portfolios within emerging areas. They are visionaries who help clients to add value from established and emerging technologies. They help customers rethink their business models, acting as strategic advisors on high-impact platform/ecosystem activities. They are accountable for platform/ecosystem-related sales and work, and developing long-term client relationships. With deep expertise, they act as SME internally and externally to position Accenture as a market leader.
+
+For now, all Accenture business travel, international and domestic, is currently restricted to client-essential sales/delivery activity only.
+
+Please note: The safety and well-being of our people continues to be the top priority, and our decisions around travel are informed by government COVID-19 response directives, recommendations from leading health authorities and guidance from a number of infectious disease experts.
+
+
+
+
+Here's W hat You Need:
+
+- Minimum of 12 years’ experience with technology delivery and architecture, with particular focus on Azure services, such as:- Synapse, Data Lake, Data Factory, Cognitive Services, Azure ML, and Power BI
+
+
+
+
+Minimum of 5 years’ experience in delivery leadership or project management
+Bachelor's degree or equivalent (minimum 12 years) work experience. (If associate degree, must have minimum 6 years work experience)
+
+Bonus Points If:
+
+
+You are considered a thought leader in your area of expertise
+You have a consulting background and are comfortable working in diverse, multi-disciplined teams
+You are passionate about technology as a differentiator in life and in business
+
+As required by the Colorado Equal Pay Transparency Act, Accenture provides a reasonable range of minimum compensation for roles that may be hired in Colorado. Actual compensation is influenced by a wide array of factors including but not limited to skill set, level of experience, and specific office location. For the state of Colorado 
+only
+, the range of starting pay for this role is $125,000 - $207,399
+ 
+and 
+information on benefits offered is here.
+
+What We Believe
+
+We have an unwavering commitment to diversity with the aim that every one of our people has a full sense of belonging within our organization. As a business imperative, every person at Accenture has the responsibility to create and sustain an inclusive environment.
+
+Inclusion and diversity are fundamental to our culture and core values. Our rich diversity makes us more innovative and more creative, which helps us better serve our clients and our communities. 
+Read more here
+
+Equal Employment Opportunity Statement
+
+Accenture is an Equal Opportunity Employer. We believe that no one should be discriminated against because of their differences, such as age, disability, ethnicity, gender, gender identity and expression, religion or sexual orientation.
+
+All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.
+
+Accenture is committed to providing veteran employment opportunities to our service men and women.
+
+For details, view a copy of the 
+Accenture Equal Opportunity and Affirmative Action Policy Statement
+.
+
+Requesting An Accommodation
+
+Accenture is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture and require accommodation to perform the essential functions of your role, you will be asked to participate in our reasonable accommodation process. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired.
+
+If you would like to be considered for employment opportunities with Accenture and have accommodation needs for a disability or religious observance, please call us toll free at 
+1 (877) 889-9009
+, send us an 
+email
+ or speak with your recruiter.
+
+Other Employment Statements
+
+Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.
+
+Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.
+
+Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.
+
+The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information.","{'equal': 0.007627544050614225, 'work': 0.007552016399036634, 'job': 0.0068770370161607515, 'experience': 0.0064731569134599725, 'technology': 0.004118607454906514, 'working': 0.003960674862804019, 'azure': 0.003915789707174366, 'authorization': 0.003915789707174366, 'microsoft': 0.0037145049121017066, 'day': 0.0034385185080803757, 'three': 0.0034385185080803757, 'accenturemicrosoftavanade': 0.0034385185080803757, 'together': 0.0034385185080803757, 'drive': 0.0034385185080803757, 'outcomes': 0.0034385185080803757, 'imagine': 0.0034385185080803757, 'using': 0.0034385185080803757, 'design': 0.0034385185080803757, 'thinking': 0.0034385185080803757, 'agile': 0.0034385185080803757, 'development': 0.0034385185080803757, 'methodologies': 0.0034385185080803757, 'new': 0.0034385185080803757, 'smart': 0.0034385185080803757, 'tech': 0.0034385185080803757, 'iot': 0.0034385185080803757, 'automation': 0.0034385185080803757, 'ai': 0.0034385185080803757, 'even': 0.0034385185080803757, 'built': 0.0034385185080803757, 'platform': 0.0034385185080803757, 'mynav': 0.0034385185080803757, 'myconcerto': 0.0034385185080803757, 'etc': 0.0034385185080803757, 'mixes': 0.0034385185080803757, 'parts': 0.0034385185080803757, 'companies': 0.0034385185080803757, 'transform': 0.0034385185080803757, 'digital': 0.0034385185080803757, 'come': 0.0034385185080803757, 'join': 0.0034385185080803757, 'expand': 0.0034385185080803757, 'career': 0.0034385185080803757, 'fastest': 0.0034385185080803757, 'growing': 0.0034385185080803757, 'segment': 0.0034385185080803757, 'largest': 0.0034385185080803757, 'partners': 0.0034385185080803757, 'ips': 0.0034385185080803757, 'global': 0.0034385185080803757, 'elite': 0.0034385185080803757, 'platinum': 0.0034385185080803757, 'member': 0.0034385185080803757, 'visit': 0.0034385185080803757, 'learn': 0.0034385185080803757, 'youre': 0.0034385185080803757, 'element': 0.0034385185080803757, 'solve': 0.0034385185080803757, 'complex': 0.0034385185080803757, 'problems': 0.0034385185080803757, 'harnessing': 0.0034385185080803757, 'enterprisewide': 0.0034385185080803757, 'potential': 0.0034385185080803757, 'long': 0.0034385185080803757, 'relationship': 0.0034385185080803757, 'behind': 0.0034385185080803757, 'along': 0.0034385185080803757, 'broad': 0.0034385185080803757, 'transformation': 0.0034385185080803757, 'skills': 0.0034385185080803757, 'avanades': 0.0034385185080803757, 'specialization': 0.0034385185080803757, 'ecosystem': 0.0034385185080803757, 'tip': 0.0034385185080803757, 'spear': 0.0034385185080803757, 'fluent': 0.0034385185080803757, 'extremely': 0.0034385185080803757, 'multiple': 0.0034385185080803757, 'passion': 0.0034385185080803757, 'senior': 0.0034385185080803757, 'trusted': 0.0034385185080803757, 'supporting': 0.0034385185080803757, 'defining': 0.0034385185080803757, 'cutting': 0.0034385185080803757, 'edge': 0.0034385185080803757, 'collaborating': 0.0034385185080803757, 'across': 0.0034385185080803757, 'internal': 0.0034385185080803757, 'shaping': 0.0034385185080803757, 'adopted': 0.0034385185080803757, 'define': 0.0034385185080803757, 'assets': 0.0034385185080803757, 'offerings': 0.0034385185080803757, 'run': 0.0034385185080803757, 'large': 0.0034385185080803757, 'deal': 0.0034385185080803757, 'pursuits': 0.0034385185080803757, 'specified': 0.0034385185080803757, 'practice': 0.0034385185080803757, 'builders': 0.0034385185080803757}"
+e3204df7cca13ee5,31088ebdb1555207,4e4b8a9e130bc8ca,5890a50fb35d0f4d,12,TuSimple,TuSimple,TuSimple,/q-TuSimple-l-los-angeles-jobs.html,Los Angeles,US,,Los Angeles,Sr. Software Safety Engineer,d05a4fe50c5af0a8,E4fhWX_aAFqF37QMCtQEyhxNNjPrsTulYVJeVzSI4sYovf9g9gK90TedWsP3TSjz,"This opportunity is located in San Diego, CA or Tucson, AZ. Remote friendly during COVID-19
+
+
+
+You can apply to the job with this email address: product__sr__software_safety_engineer_ad9ec6932us@ivy.greenhouse.io
+
+
+
+Company Overview
+
+
+
+Come join a higher calling and find a deeper purpose!
+
+
+
+As a multi-national Artificial Intelligence Technology Company, we are at the epicenter of the Autonomous Vehicle Universe. Our breakthroughs are leading the industry in autonomous trucking.
+
+
+
+While inventing the framework of Autonomous Driving, our current fleet of autonomous Trucks are helping communities receive much-needed supplies and medical equipment around the clock. Our people are some of the most talented engineers and contributors who are leaving behind a historic legacy.
+
+
+
+TuSimple was founded half a decade ago with the goal of bringing the top minds in the world together to achieve the dream of a driverless truck solution. With a foundation in computer vision, algorithms, mapping, and Artificial Intelligence, TuSimple is working to create the first global commercially viable 
+Autonomous Freight Network.
+
+
+
+
+
+Role Responsibilities
+
+
+
+
+Supports the identification of safety metrics for algorithm modules based on unsafe known failure modes.
+
+
+Leverages tusimple's Machine Learning platform and verification tools (simulation, SIL) to verify the defined safety metrics across all known scenarios.
+
+
+Leverages existing state-of-the-art industry SW safety standards or guidelines to support the development of the SW safety analysis process and identification of activities.
+
+
+Supports the definition of the work packages required for compliance with the safety standards (ISO 26262, ISO 21448, UL4600).
+
+
+Responsible for the application of ISO 26262-6 design principles on SW architectures and requirements.
+
+
+Responsible for highlighting potential gaps in tusimple's ML platform or tools and suggesting improvements.
+
+
+Supports the safety analysis activities as needed (HARA, FTA, FMEA, STPA).
+
+
+Supports the development of SW safety architectures.
+
+
+Supports the development of the SW safety concept.
+
+
+other responsibilities as assigned.
+
+
+Supports the development of a comprehensive SW safety plan for the team, coordination with the project safety manager, product teams, engineering teams, and tusimple's partners (e.g. vehicle manufacturer, component suppliers) and aligns with their project plans.
+
+
+Supports the development of a comprehensive safety case based on UL 4600 with special focus on autonomy functions.
+
+
+
+
+Experience & Skills Required
+
+
+
+
+Holds a B.S. or higher degree (or equivalent) in Electrical Engineering or Computer Science
+
+
+5+ years of relevant experience
+
+
+Strong experience in machine learning, neural networks and autonomous driving software stacks.
+
+
+Strong experience in SW development.
+
+
+applied knowledge in ISO 26262, ISO 21448 and UL4600.
+
+
+Experience working with suppliers and OEMs regarding safety analysis and requirements
+
+
+Solid knowledge and experience with autonomous or automotive software architectures, including safety architectures.
+
+
+Strong understanding of software simulation, validating software functions, and software safety mechanisms
+
+
+Preferred experience working with classic AutoSAR and Adaptive AutoSAR.
+
+
+Preferred understanding of software quality concepts and processes (ASPICE)
+
+
+Experience deriving technical safety requirements from the Functional Safety Concepts, Technical Safety Concepts, and System Architecture Design.
+
+
+Strong experience in C/C++ and related coding standards (e.g. Automotive MISRA or similar)
+
+
+Preferred understanding of SOC, AUTOSAR or similar embedded software, algorithms and data structures
+
+
+Preferred Familiarity with computer system architecture, microprocessor, and microcontroller fundamentals (caches, buses, memory controllers, DMA, etc.), and supporting electronic circuits
+
+
+Preferred experience with configuration management (hardware, its firmware, serial number, hardware, etc.)
+
+
+Preferred knowledge of security standards (EAL/CC, SAE J3061)
+
+
+Preferred knowledge in operating systems: ROS (robot operating system), QNX, APIX.AI
+
+
+Preferred knowledge in compute platforms (e.g. nvidia)
+
+
+
+
+TuSimple Benefits
+
+
+
+
+100% employer-paid healthcare premiums for you and your family
+
+
+
+
+Work visa sponsorship available
+
+
+
+
+Relocation assistance available
+
+
+
+
+Breakfast, lunch, and dinner served every day
+
+
+
+
+Full kitchens on every floor with unlimited snacks, drinks, special treats, fruits, meals, and more
+
+
+
+
+Stock options / equity
+
+
+
+
+Gym membership reimbursement
+
+
+
+
+Monthly team building budget
+
+
+
+
+Learning/education budget
+
+
+
+
+Employer-paid life insurance
+
+
+
+
+Employer-paid long and short disability
+
+
+
+
+TuSimple is an Equal Opportunity Employer. This company does not discriminate in employment and personnel practices on the basis of race, sex, age, handicap, religion, national origin, or any other basis prohibited by applicable law. Hiring, transferring and promotion practices are performed without regard to the above-listed items.
+
+
+
+
+This opportunity is located in San Diego, CA or Tucson, AZ. Remote friendly during COVID-19
+
+
+
+You can apply to the job with this email address: product__sr__software_safety_engineer_ad9ec6932us@ivy.greenhouse.io
+
+
+Brown University, California Institute of Technology, Carnegie Mellon University, Columbia University, Cornell University, Dartmouth College, Duke University, Georgia Institute of Technology, Harvard University, Harvey Mudd College, Massachusetts Institute of Technology, North Carolina State University, Northwestern University, Princeton University, Purdue University, Rice University, Rose - Hulman Institute of Technology, Stanford University, Tufts University, University of California â€” Berkeley, University of California â€” Los Angeles, University of Illinois-Urbana-Champaign, University of Maryland-College Park, University of Massachusetts-Amherst, University of Michigan-Ann Arbor, University of Notre Dame, University of Pennsylvania, University of Southern California, University of Texas Austin, University of Washington, University of Wisconsin-Madison, Williams College, Worcester Polytechnic Institute (WPI), Yale University, MIT, CMU, Waymo, Uber, Facebook, Uber, Amazon, Cruise, Tesla, Argo AI, Baidu, DIDI, Zoox, Nutonomy, Nuro, Aptiv, Pony.Ai, Kodiak, Toyota, Nissan, GM, Ford, VW, Autonomous Car, Autonomous Driving, Robotics, Artificial Intelligence, Machine Learning, Deep learning, Perception, Prediction, Planning, Control, Anduril Industries, Sift, Nauto, Tempus, Salesforce, Automation Anywhere, SenSat, Phrasee, Defined Crowd, Pymetrics,Siemens, Socure, AEye, Rev.com, Suki.ai, Verkada, DataVisor, People.ai, AlphaSense, Icertis, Casetext, Blue River Tech, Nvidia, Bright Machines, Orbital Insight, Brighterion, H2O, Intel, Clarifa, X.ai, Zebra Medical Vision, Iris AI, Freenome, Neurala, Akamai, Zoho, ServiceNow, SalesForce, Oracle, Tableau,Splunk,Cvent, Veeam,Atlassian, DocuSign, Dropbox, Veeva Systems, Proofpoint, Cornerstone, Qualtrics. New Relic, Okta, Intralinks, MuleSoft, Freshworks, Slack, Twilio, Anaplan, Stripe, Workfront, Smartsheet, Zuora, OutSystems, Coupa, Cylance, Elastic, Zoom, SailPoint, BlackLine, iCIMS, Digitate, Qualys, Kareo, DataStax, DiscoverOrg, Siteimprove, Druva, Centrify, Looker, SimilarWeb, Odoo, Kyriba, Sumo Logic, Sisense, PagerDuty, DigitalOcean, Liquid Web, Zaloni, Databricks, ServiceTitan, Fastly, SnapLogic, Mendix, Couchbase, Egnyte, Seismic, Bill.com, Justworks, Collibra, ActiveCampaign, Schoology, SalesLoft, Cylynt,","{'university': 0.02098010199523299, 'experience': 0.012447942871904809, 'safety': 0.009217670674463298, 'az': 0.007856557580402561, 'job': 0.00635947943664458, 'knowledge': 0.005391624352651875, 'requirements': 0.005047984723692926, 'project': 0.004862401292886599, 'overview': 0.003928278790201281, 'come': 0.003928278790201281, 'join': 0.003928278790201281, 'calling': 0.003928278790201281, 'find': 0.003928278790201281, 'deeper': 0.003928278790201281, 'purpose': 0.003928278790201281, 'multinational': 0.003928278790201281, 'epicenter': 0.003928278790201281, 'universe': 0.003928278790201281, 'breakthroughs': 0.003928278790201281, 'leading': 0.003928278790201281, 'trucking': 0.003928278790201281, 'inventing': 0.003928278790201281, 'framework': 0.003928278790201281, 'current': 0.003928278790201281, 'fleet': 0.003928278790201281, 'trucks': 0.003928278790201281, 'helping': 0.003928278790201281, 'communities': 0.003928278790201281, 'receive': 0.003928278790201281, 'muchneeded': 0.003928278790201281, 'supplies': 0.003928278790201281, 'equipment': 0.003928278790201281, 'around': 0.003928278790201281, 'clock': 0.003928278790201281, 'people': 0.003928278790201281, 'talented': 0.003928278790201281, 'engineers': 0.003928278790201281, 'contributors': 0.003928278790201281, 'leaving': 0.003928278790201281, 'behind': 0.003928278790201281, 'historic': 0.003928278790201281, 'legacy': 0.003928278790201281, 'founded': 0.003928278790201281, 'half': 0.003928278790201281, 'decade': 0.003928278790201281, 'ago': 0.003928278790201281, 'goal': 0.003928278790201281, 'bringing': 0.003928278790201281, 'top': 0.003928278790201281, 'minds': 0.003928278790201281, 'world': 0.003928278790201281, 'together': 0.003928278790201281, 'achieve': 0.003928278790201281, 'dream': 0.003928278790201281, 'driverless': 0.003928278790201281, 'truck': 0.003928278790201281, 'solution': 0.003928278790201281, 'foundation': 0.003928278790201281, 'mapping': 0.003928278790201281, 'create': 0.003928278790201281, 'first': 0.003928278790201281, 'global': 0.003928278790201281, 'commercially': 0.003928278790201281, 'viable': 0.003928278790201281, 'freight': 0.003928278790201281, 'network': 0.003928278790201281, 'role': 0.003928278790201281, 'algorithm': 0.003928278790201281, 'modules': 0.003928278790201281, 'unsafe': 0.003928278790201281, 'failure': 0.003928278790201281, 'modes': 0.003928278790201281, 'verification': 0.003928278790201281, 'sil': 0.003928278790201281, 'verify': 0.003928278790201281, 'across': 0.003928278790201281, 'scenarios': 0.003928278790201281, 'existing': 0.003928278790201281, 'stateoftheart': 0.003928278790201281, 'guidelines': 0.003928278790201281, 'support': 0.003928278790201281, 'process': 0.003928278790201281, 'definition': 0.003928278790201281, 'packages': 0.003928278790201281, 'compliance': 0.003928278790201281, 'application': 0.003928278790201281, 'principles': 0.003928278790201281, 'highlighting': 0.003928278790201281, 'potential': 0.003928278790201281, 'gaps': 0.003928278790201281, 'ml': 0.003928278790201281, 'suggesting': 0.003928278790201281, 'improvements': 0.003928278790201281, 'needed': 0.003928278790201281, 'hara': 0.003928278790201281, 'fta': 0.003928278790201281, 'fmea': 0.003928278790201281, 'stpa': 0.003928278790201281, 'concept': 0.003928278790201281, 'assigned': 0.003928278790201281}"
+7039aac92780cd35,31088ebdb1555207,4e4b8a9e130bc8ca,5890a50fb35d0f4d,6,TuSimple,TuSimple,TuSimple,/q-TuSimple-l-los-angeles-jobs.html,Los Angeles,US,,Los Angeles,Lead Software Safety Engineer,d05a4fe50c5af0a8,E4fhWX_aAFqF37QMCtQEyhxNNjPrsTulYVJeVzSI4sYovf9g9gK90TedWsP3TSjz,"This opportunity is located in San Diego, CA. Remote friendly during COVID-19
+
+
+
+You can apply to the job with this email address: product__lead_software_safety_engineer_1250edc62us@ivy.greenhouse.io
+
+
+
+Company Overview
+
+
+
+Come join a higher calling and find a deeper purpose!
+
+
+
+As a multi-national Artificial Intelligence Technology Company, we are at the epicenter of the Autonomous Vehicle Universe. Our breakthroughs are leading the industry in autonomous trucking.
+
+
+
+While inventing the framework of Autonomous Driving, our current fleet of autonomous Trucks are helping communities receive much-needed supplies and medical equipment around the clock. Our people are some of the most talented engineers and contributors who are leaving behind a historic legacy.
+
+
+
+TuSimple was founded half a decade ago with the goal of bringing the top minds in the world together to achieve the dream of a driverless truck solution. With a foundation in computer vision, algorithms, mapping, and Artificial Intelligence, TuSimple is working to create the first global commercially viable 
+Autonomous Freight Network.
+
+
+
+
+
+Role Responsibilities
+
+
+
+
+Leads the identification of safety metrics for algorithm modules based on unsafe known failure modes.
+
+
+Leverages tusimple's Machine Learning platform and verification tools (simulation, SIL) to verify the defined safety metrics across all known scenarios.
+
+
+Leverages existing state-of-the-art industry SW safety standards or guidelines to support the development of the SW safety analysis process and identification of activities.
+
+
+Supports the definition of the work packages required for compliance with the safety standards (ISO 26262, ISO 21448, UL4600).
+
+
+Responsible for the application of ISO 26262-6 design principles on SW architectures and requirements.
+
+
+Responsible for highlighting potential gaps in tusimple's ML platform or tools and suggesting improvements.
+
+
+Supports the development of a comprehensive SW safety plan for the team, coordination with the project safety manager, product teams, engineering teams, and tusimple's partners (e.g. vehicle manufacturer, component suppliers) and align with their project plans.
+
+
+Supports the development of a comprehensive safety case based on UL 4600 with special focus on autonomy functions.
+
+
+Supports the safety analysis activities as needed (HARA, FTA, FMEA, STPA).
+
+
+Supports the development of SW safety architectures.
+
+
+Supports the development of the SW safety concept.
+
+
+other responsibilities as assigned.
+
+
+
+
+Experience & Skills Required
+
+
+
+
+Holds a B.S. or higher degree (or equivalent) in Electrical Engineering or Computer Science
+
+
+10+ years of relevant experience
+
+
+Strong experience in machine learning, neural networks and autonomous driving software stacks.
+
+
+Strong experience in SW development.
+
+
+applied knowledge in ISO 26262, ISO 21448 and UL4600.
+
+
+Must-have experience in being a technical leader in a group.
+
+
+Experience working with suppliers and OEMs regarding safety analysis and requirements
+
+
+Solid knowledge and experience with autonomous or automotive software architectures, including safety architectures.
+
+
+Strong understanding of software simulation, validating software functions, and software safety mechanisms
+
+
+Strong experience working with classic AutoSAR and Adaptive AutoSAR.
+
+
+Understanding of software quality concepts and processes (ASPICE)
+
+
+Experience deriving technical safety requirements from the Functional Safety Concepts, Technical Safety Concepts, and System Architecture Design.
+
+
+Strong experience in C/C++ and related coding standards (e.g. Automotive MISRA or similar)
+
+
+Applied understanding of SOC, AUTOSAR or similar embedded software, algorithms and data structures
+
+
+Familiarity with computer system architecture, microprocessor, and microcontroller fundamentals (caches, buses, memory controllers, DMA, etc.), and supporting electronic circuits
+
+
+Expert in configuration management (hardware, its firmware, serial number, hardware, etc.)
+
+
+Knowledge of security standards (EAL/CC, SAE J3061)
+
+
+strong knowledge in operating systems: ROS (robot operating system), QNX, APIX.AI
+
+
+strong knowledge in compute platforms (e.g. nvidia)
+
+
+
+
+TuSimple Benefits
+
+
+
+
+100% employer-paid healthcare premiums for you and your family
+
+
+
+
+Work visa sponsorship available
+
+
+
+
+Relocation assistance available
+
+
+
+
+Breakfast, lunch, and dinner served every day
+
+
+
+
+Full kitchens on every floor with unlimited snacks, drinks, special treats, fruits, meals, and more
+
+
+
+
+Stock options / equity
+
+
+
+
+Gym membership reimbursement
+
+
+
+
+Monthly team building budget
+
+
+
+
+Learning/education budget
+
+
+
+
+Employer-paid life insurance
+
+
+
+
+Employer-paid long and short disability
+
+
+
+
+TuSimple is an Equal Opportunity Employer. This company does not discriminate in employment and personnel practices on the basis of race, sex, age, handicap, religion, national origin, or any other basis prohibited by applicable law. Hiring, transferring and promotion practices are performed without regard to the above-listed items.
+
+
+
+
+This opportunity is located in San Diego, CA. Remote friendly during COVID-19
+
+
+
+You can apply to the job with this email address: product__lead_software_safety_engineer_1250edc62us@ivy.greenhouse.io
+
+
+Brown University, California Institute of Technology, Carnegie Mellon University, Columbia University, Cornell University, Dartmouth College, Duke University, Georgia Institute of Technology, Harvard University, Harvey Mudd College, Massachusetts Institute of Technology, North Carolina State University, Northwestern University, Princeton University, Purdue University, Rice University, Rose - Hulman Institute of Technology, Stanford University, Tufts University, University of California â€” Berkeley, University of California â€” Los Angeles, University of Illinois-Urbana-Champaign, University of Maryland-College Park, University of Massachusetts-Amherst, University of Michigan-Ann Arbor, University of Notre Dame, University of Pennsylvania, University of Southern California, University of Texas Austin, University of Washington, University of Wisconsin-Madison, Williams College, Worcester Polytechnic Institute (WPI), Yale University, MIT, CMU, Waymo, Uber, Facebook, Uber, Amazon, Cruise, Tesla, Argo AI, Baidu, DIDI, Zoox, Nutonomy, Nuro, Aptiv, Pony.Ai, Kodiak, Toyota, Nissan, GM, Ford, VW, Autonomous Car, Autonomous Driving, Robotics, Artificial Intelligence, Machine Learning, Deep learning, Perception, Prediction, Planning, Control, Anduril Industries, Sift, Nauto, Tempus, Salesforce, Automation Anywhere, SenSat, Phrasee, Defined Crowd, Pymetrics,Siemens, Socure, AEye, Rev.com, Suki.ai, Verkada, DataVisor, People.ai, AlphaSense, Icertis, Casetext, Blue River Tech, Nvidia, Bright Machines, Orbital Insight, Brighterion, H2O, Intel, Clarifa, X.ai, Zebra Medical Vision, Iris AI, Freenome, Neurala, Akamai, Zoho, ServiceNow, SalesForce, Oracle, Tableau,Splunk,Cvent, Veeam,Atlassian, DocuSign, Dropbox, Veeva Systems, Proofpoint, Cornerstone, Qualtrics. New Relic, Okta, Intralinks, MuleSoft, Freshworks, Slack, Twilio, Anaplan, Stripe, Workfront, Smartsheet, Zuora, OutSystems, Coupa, Cylance, Elastic, Zoom, SailPoint, BlackLine, iCIMS, Digitate, Qualys, Kareo, DataStax, DiscoverOrg, Siteimprove, Druva, Centrify, Looker, SimilarWeb, Odoo, Kyriba, Sumo Logic, Sisense, PagerDuty, DigitalOcean, Liquid Web, Zaloni, Databricks, ServiceTitan, Fastly, SnapLogic, Mendix, Couchbase, Egnyte, Seismic, Bill.com, Justworks, Collibra, ActiveCampaign, Schoology, SalesLoft, Cylynt,","{'university': 0.02170943530677162, 'experience': 0.011864063592528182, 'safety': 0.009694542455084713, 'job': 0.006415581999070628, 'knowledge': 0.005531880758716996, 'requirements': 0.005132138567332, 'project': 0.004918503855312648, 'overview': 0.003956330071414305, 'come': 0.003956330071414305, 'join': 0.003956330071414305, 'calling': 0.003956330071414305, 'find': 0.003956330071414305, 'deeper': 0.003956330071414305, 'purpose': 0.003956330071414305, 'multinational': 0.003956330071414305, 'epicenter': 0.003956330071414305, 'universe': 0.003956330071414305, 'breakthroughs': 0.003956330071414305, 'leading': 0.003956330071414305, 'trucking': 0.003956330071414305, 'inventing': 0.003956330071414305, 'framework': 0.003956330071414305, 'current': 0.003956330071414305, 'fleet': 0.003956330071414305, 'trucks': 0.003956330071414305, 'helping': 0.003956330071414305, 'communities': 0.003956330071414305, 'receive': 0.003956330071414305, 'muchneeded': 0.003956330071414305, 'supplies': 0.003956330071414305, 'equipment': 0.003956330071414305, 'around': 0.003956330071414305, 'clock': 0.003956330071414305, 'people': 0.003956330071414305, 'talented': 0.003956330071414305, 'engineers': 0.003956330071414305, 'contributors': 0.003956330071414305, 'leaving': 0.003956330071414305, 'behind': 0.003956330071414305, 'historic': 0.003956330071414305, 'legacy': 0.003956330071414305, 'founded': 0.003956330071414305, 'half': 0.003956330071414305, 'decade': 0.003956330071414305, 'ago': 0.003956330071414305, 'goal': 0.003956330071414305, 'bringing': 0.003956330071414305, 'top': 0.003956330071414305, 'minds': 0.003956330071414305, 'world': 0.003956330071414305, 'together': 0.003956330071414305, 'achieve': 0.003956330071414305, 'dream': 0.003956330071414305, 'driverless': 0.003956330071414305, 'truck': 0.003956330071414305, 'solution': 0.003956330071414305, 'foundation': 0.003956330071414305, 'mapping': 0.003956330071414305, 'create': 0.003956330071414305, 'first': 0.003956330071414305, 'global': 0.003956330071414305, 'commercially': 0.003956330071414305, 'viable': 0.003956330071414305, 'freight': 0.003956330071414305, 'network': 0.003956330071414305, 'role': 0.003956330071414305, 'leads': 0.003956330071414305, 'algorithm': 0.003956330071414305, 'modules': 0.003956330071414305, 'unsafe': 0.003956330071414305, 'failure': 0.003956330071414305, 'modes': 0.003956330071414305, 'verification': 0.003956330071414305, 'sil': 0.003956330071414305, 'verify': 0.003956330071414305, 'across': 0.003956330071414305, 'scenarios': 0.003956330071414305, 'existing': 0.003956330071414305, 'stateoftheart': 0.003956330071414305, 'guidelines': 0.003956330071414305, 'support': 0.003956330071414305, 'process': 0.003956330071414305, 'definition': 0.003956330071414305, 'packages': 0.003956330071414305, 'compliance': 0.003956330071414305, 'application': 0.003956330071414305, 'principles': 0.003956330071414305, 'highlighting': 0.003956330071414305, 'potential': 0.003956330071414305, 'gaps': 0.003956330071414305, 'ml': 0.003956330071414305, 'suggesting': 0.003956330071414305, 'improvements': 0.003956330071414305, 'plan': 0.003956330071414305, 'coordination': 0.003956330071414305, 'manager': 0.003956330071414305, 'product': 0.003956330071414305, 'partners': 0.003956330071414305, 'manufacturer': 0.003956330071414305, 'component': 0.003956330071414305}"
+bf403113880157a9,31088ebdb1555207,4e4b8a9e130bc8ca,5890a50fb35d0f4d,7,TuSimple,TuSimple,TuSimple,/q-TuSimple-l-los-angeles-jobs.html,California,US,,,Sr. Staff Software Safety Engineer - Autonomous Driving,544e90d8616c87c1,E4fhWX_aAFqF37QMCtQEyhxNNjPrsTulYVJeVzSI4sYovf9g9gK90TedWsP3TSjz,"This opportunity is located in San Diego, CA or Tucson, AZ. Remote friendly during COVID-19
+
+
+
+You can apply to the job with this email address: product__sr__staff_software_safety_engineer_b09073922us@ivy.greenhouse.io
+
+
+
+
+Company Overview
+
+
+
+Come join a higher calling and find a deeper purpose!
+
+
+
+As a multi-national Artificial Intelligence Technology Company, we are at the epicenter of the Autonomous Vehicle Universe. Our breakthroughs are leading the industry in autonomous trucking.
+
+
+
+While inventing the framework of Autonomous Driving, our current fleet of autonomous Trucks are helping communities receive much-needed supplies and medical equipment around the clock. Our people are some of the most talented engineers and contributors who are leaving behind a historic legacy.
+
+
+
+TuSimple was founded half a decade ago with the goal of bringing the top minds in the world together to achieve the dream of a driverless truck solution. With a foundation in computer vision, algorithms, mapping, and Artificial Intelligence, TuSimple is working to create the first global commercially viable 
+Autonomous Freight Network.
+
+
+
+Roles and Responsibilities
+
+
+
+
+Supports the identification of safety metrics for algorithm modules based on unsafe known failure modes.
+
+
+Leverages tusimple's Machine Learning platform and verification tools (simulation, SIL) to verify the defined safety metrics across all known scenarios.
+
+
+Leverages existing state-of-the-art industry SW safety standards or guidelines to support the development of the SW safety analysis process and identification of activities.
+
+
+Supports the definition of the work packages required for compliance with the safety standards (ISO 26262, ISO 21448, UL4600).
+
+
+Responsible for the application of ISO 26262-6 design principles on SW architectures and requirements.
+
+
+Responsible for highlighting potential gaps in tusimple's ML platform or tools and suggesting improvements.
+
+
+Supports the safety analysis activities as needed (HARA, FTA, FMEA, STPA).
+
+
+Supports the development of SW safety architectures.
+
+
+Supports the development of the SW safety concept.
+
+
+other responsibilities as assigned.
+
+
+Supports the development of a comprehensive SW safety plan for the team, coordination with the project safety manager, product teams, engineering teams, and tusimple's partners (e.g. vehicle manufacturer, component suppliers) and aligns with their project plans.
+
+
+
+
+
+Experience & Skills Required
+
+
+
+
+Holds a B.S. or higher degree (or equivalent) in Electrical Engineering or Computer Science
+
+
+7+ years of relevant experience
+
+
+Strong experience in machine learning, neural networks and autonomous driving software stacks.
+
+
+Strong experience in SW development.
+
+
+applied knowledge in ISO 26262, ISO 21448 and UL4600.
+
+
+Experience working with suppliers and OEMs regarding safety analysis and requirements
+
+
+Solid knowledge and experience with autonomous or automotive software architectures, including safety architectures.
+
+
+Strong understanding of software simulation, validating software functions, and software safety mechanisms
+
+
+Preferred experience working with classic AutoSAR and Adaptive AutoSAR.
+
+
+Preferred understanding of software quality concepts and processes (ASPICE)
+
+
+Experience deriving technical safety requirements from the Functional Safety Concepts, Technical Safety Concepts, and System Architecture Design.
+
+
+Strong experience in C/C++ and related coding standards (e.g. Automotive MISRA or similar)
+
+
+Preferred understanding of SOC, AUTOSAR or similar embedded software, algorithms and data structures
+
+
+Preferred Familiarity with computer system architecture, microprocessor, and microcontroller fundamentals (caches, buses, memory controllers, DMA, etc.), and supporting electronic circuits
+
+
+Preferred experience with configuration management (hardware, its firmware, serial number, hardware, etc.)
+
+
+Preferred knowledge of security standards (EAL/CC, SAE J3061)
+
+
+Preferred knowledge in operating systems: ROS (robot operating system), QNX, APIX.AI
+
+
+Preferred knowledge in compute platforms (e.g. nvidia)
+
+
+
+
+TuSimple Benefits
+
+
+
+
+100% employer-paid healthcare premiums for you and your family
+
+
+
+
+Work visa sponsorship available
+
+
+
+
+Relocation assistance available
+
+
+
+
+Breakfast, lunch, and dinner served every day
+
+
+
+
+Full kitchens on every floor with unlimited snacks, drinks, special treats, fruits, meals, and more
+
+
+
+
+Stock options / equity
+
+
+
+
+Gym membership reimbursement
+
+
+
+
+Monthly team building budget
+
+
+
+
+Learning/education budget
+
+
+
+
+Employer-paid life insurance
+
+
+
+
+Employer-paid long and short disability
+
+
+
+
+TuSimple is an Equal Opportunity Employer. This company does not discriminate in employment and personnel practices on the basis of race, sex, age, handicap, religion, national origin, or any other basis prohibited by applicable law. Hiring, transferring and promotion practices are performed without regard to the above-listed items.
+
+
+
+
+This opportunity is located in San Diego, CA or Tucson, AZ. Remote friendly during COVID-19
+
+
+
+You can apply to the job with this email address: 
+product__sr__staff_software_safety_engineer_b09073922us@ivy.greenhouse.io
+Institute of Technology, North Carolina State University, Northwestern University, Princeton University, Purdue University, Rice University, Rose - Hulman Institute of Technology, Stanford University, Tufts University, University of California â€” Berkeley, University of California â€” Los Angeles, University of Illinois-Urbana-Champaign, University of Maryland-College Park, University of Massachusetts-Amherst, University of Michigan-Ann Arbor, University of Notre Dame, University of Pennsylvania, University of Southern California, University of Texas Austin, University of Washington, University of Wisconsin-Madison, Williams College, Worcester Polytechnic Institute (WPI), Yale University, MIT, CMU, Waymo, Uber, Facebook, Uber, Amazon, Cruise, Tesla, Argo AI, Baidu, DIDI, Zoox, Nutonomy, Nuro, Aptiv, Pony.Ai, Kodiak, Toyota, Nissan, GM, Ford, VW, Autonomous Car, Autonomous Driving, Robotics, Artificial Intelligence, Machine Learning, Deep learning, Perception, Prediction, Planning, Control, Anduril Industries, Sift, Nauto, Tempus, Salesforce, Automation Anywhere, SenSat, Phrasee, Defined Crowd, Pymetrics,Siemens, Socure, AEye, Rev.com, Suki.ai, Verkada, DataVisor, People.ai, AlphaSense, Icertis, Casetext, Blue River Tech, Nvidia, Bright Machines, Orbital Insight, Brighterion, H2O, Intel, Clarifa, X.ai, Zebra Medical Vision, Iris AI, Freenome, Neurala, Akamai, Zoho, ServiceNow, SalesForce, Oracle, Tableau,Splunk,Cvent, Veeam,Atlassian, DocuSign, Dropbox, Veeva Systems, Proofpoint, Cornerstone, Qualtrics. New Relic, Okta, Intralinks, MuleSoft, Freshworks, Slack, Twilio, Anaplan, Stripe, Workfront, Smartsheet, Zuora, OutSystems, Coupa, Cylance, Elastic, Zoom, SailPoint, BlackLine, iCIMS, Digitate, Qualys, Kareo, DataStax, DiscoverOrg, Siteimprove, Druva, Centrify, Looker, SimilarWeb, Odoo, Kyriba, Sumo Logic, Sisense, PagerDuty, DigitalOcean, Liquid Web, Zaloni, Databricks, ServiceTitan, Fastly, SnapLogic, Mendix, Couchbase, Egnyte, Seismic, Bill.com, Justworks, Collibra, ActiveCampaign, Schoology, SalesLoft, Cylynt,","{'university': 0.017615052516149678, 'experience': 0.01275210943212032, 'safety': 0.009420166872677846, 'az': 0.008178749519012967, 'job': 0.006608767230088968, 'knowledge': 0.005503174309337292, 'requirements': 0.005203203978361456, 'project': 0.00503878494116497, 'overview': 0.0040893747595064835, 'come': 0.0040893747595064835, 'join': 0.0040893747595064835, 'calling': 0.0040893747595064835, 'find': 0.0040893747595064835, 'deeper': 0.0040893747595064835, 'purpose': 0.0040893747595064835, 'multinational': 0.0040893747595064835, 'epicenter': 0.0040893747595064835, 'universe': 0.0040893747595064835, 'breakthroughs': 0.0040893747595064835, 'leading': 0.0040893747595064835, 'trucking': 0.0040893747595064835, 'inventing': 0.0040893747595064835, 'framework': 0.0040893747595064835, 'current': 0.0040893747595064835, 'fleet': 0.0040893747595064835, 'trucks': 0.0040893747595064835, 'helping': 0.0040893747595064835, 'communities': 0.0040893747595064835, 'receive': 0.0040893747595064835, 'muchneeded': 0.0040893747595064835, 'supplies': 0.0040893747595064835, 'equipment': 0.0040893747595064835, 'around': 0.0040893747595064835, 'clock': 0.0040893747595064835, 'people': 0.0040893747595064835, 'talented': 0.0040893747595064835, 'engineers': 0.0040893747595064835, 'contributors': 0.0040893747595064835, 'leaving': 0.0040893747595064835, 'behind': 0.0040893747595064835, 'historic': 0.0040893747595064835, 'legacy': 0.0040893747595064835, 'founded': 0.0040893747595064835, 'half': 0.0040893747595064835, 'decade': 0.0040893747595064835, 'ago': 0.0040893747595064835, 'goal': 0.0040893747595064835, 'bringing': 0.0040893747595064835, 'top': 0.0040893747595064835, 'minds': 0.0040893747595064835, 'world': 0.0040893747595064835, 'together': 0.0040893747595064835, 'achieve': 0.0040893747595064835, 'dream': 0.0040893747595064835, 'driverless': 0.0040893747595064835, 'truck': 0.0040893747595064835, 'solution': 0.0040893747595064835, 'foundation': 0.0040893747595064835, 'mapping': 0.0040893747595064835, 'create': 0.0040893747595064835, 'first': 0.0040893747595064835, 'global': 0.0040893747595064835, 'commercially': 0.0040893747595064835, 'viable': 0.0040893747595064835, 'freight': 0.0040893747595064835, 'network': 0.0040893747595064835, 'roles': 0.0040893747595064835, 'algorithm': 0.0040893747595064835, 'modules': 0.0040893747595064835, 'based': 0.0040893747595064835, 'unsafe': 0.0040893747595064835, 'failure': 0.0040893747595064835, 'modes': 0.0040893747595064835, 'verification': 0.0040893747595064835, 'sil': 0.0040893747595064835, 'verify': 0.0040893747595064835, 'across': 0.0040893747595064835, 'scenarios': 0.0040893747595064835, 'existing': 0.0040893747595064835, 'stateoftheart': 0.0040893747595064835, 'guidelines': 0.0040893747595064835, 'support': 0.0040893747595064835, 'process': 0.0040893747595064835, 'definition': 0.0040893747595064835, 'packages': 0.0040893747595064835, 'compliance': 0.0040893747595064835, 'application': 0.0040893747595064835, 'principles': 0.0040893747595064835, 'highlighting': 0.0040893747595064835, 'potential': 0.0040893747595064835, 'gaps': 0.0040893747595064835, 'ml': 0.0040893747595064835, 'suggesting': 0.0040893747595064835, 'improvements': 0.0040893747595064835, 'needed': 0.0040893747595064835, 'hara': 0.0040893747595064835, 'fta': 0.0040893747595064835, 'fmea': 0.0040893747595064835, 'stpa': 0.0040893747595064835, 'concept': 0.0040893747595064835}"
