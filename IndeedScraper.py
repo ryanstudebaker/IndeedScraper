@@ -30,7 +30,7 @@ print("Search location: ")
 location = input()
 print("Search location: " + location)
 
-filename = str(search+" " +
+filename = str('outputs\\'+search+" " +
                location+'.csv').replace(" ", "")
 print('filename: '+str(filename))
 
